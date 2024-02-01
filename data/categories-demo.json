@@ -1,0 +1,911 @@
+[
+  {
+    "id": "weapons",
+    "name": "Weapons",
+    "url": "/blueprints/weapons/ws",
+    "subCategories": [
+      {
+        "id": "sword",
+        "name": "Sword",
+        "url": "/blueprints/weapons/ws",
+        "image": {
+          "id": "icon_global_item_sword",
+          "name": "icon_global_item_sword",
+          "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+          "extension": "png"
+        }
+      },
+      {
+        "id": "axe",
+        "name": "Axe",
+        "url": "/blueprints/weapons/wa",
+        "image": {
+          "id": "icon_global_item_axe",
+          "name": "icon_global_item_axe",
+          "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_axe.png&w=64&q=75",
+          "extension": "png"
+        }
+      },
+      {
+        "id": "dagger",
+        "name": "Dagger",
+        "url": "/blueprints/weapons/wd",
+        "image": {
+          "id": "icon_global_item_dagger",
+          "name": "icon_global_item_dagger",
+          "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_dagger.png&w=64&q=75",
+          "extension": "png"
+        }
+      },
+      {
+        "id": "mace",
+        "name": "Mace",
+        "url": "/blueprints/weapons/wm",
+        "image": {
+          "id": "icon_global_item_mace",
+          "name": "icon_global_item_mace",
+          "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_mace.png&w=64&q=75",
+          "extension": "png"
+        }
+      },
+      {
+        "id": "spear",
+        "name": "Spear",
+        "url": "/blueprints/weapons/wp",
+        "image": {
+          "id": "icon_global_item_spear",
+          "name": "icon_global_item_spear",
+          "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_spear.png&w=64&q=75",
+          "extension": "png"
+        }
+      },
+      {
+        "id": "bow",
+        "name": "Bow",
+        "url": "/blueprints/weapons/wb",
+        "image": {
+          "id": "icon_global_item_bow",
+          "name": "icon_global_item_bow",
+          "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_bow.png&w=64&q=75",
+          "extension": "png"
+        }
+      },
+      {
+        "id": "wand",
+        "name": "Wand",
+        "url": "/blueprints/weapons/ww",
+        "image": {
+          "id": "icon_global_item_wand",
+          "name": "icon_global_item_wand",
+          "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_wand.png&w=64&q=75",
+          "extension": "png"
+        }
+      },
+      {
+        "id": "staff",
+        "name": "Staff",
+        "url": "/blueprints/weapons/wt",
+        "image": {
+          "id": "icon_global_item_staff",
+          "name": "icon_global_item_staff",
+          "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_staff.png&w=64&q=75",
+          "extension": "png"
+        }
+      },
+      {
+        "id": "crossbow",
+        "name": "Crossbow",
+        "url": "/blueprints/weapons/wc",
+        "image": {
+          "id": "icon_global_item_crossbow",
+          "name": "icon_global_item_crossbow",
+          "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_crossbow.png&w=64&q=75",
+          "extension": "png"
+        }
+      },
+      {
+        "id": "gun",
+        "name": "Gun",
+        "url": "/blueprints/weapons/wg",
+        "image": {
+          "id": "icon_global_item_gun",
+          "name": "icon_global_item_gun",
+          "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_gun.png&w=64&q=75",
+          "extension": "png"
+        }
+      },
+      {
+        "id": "instrument",
+        "name": "Instrument",
+        "url": "/blueprints/weapons/wi",
+        "image": {
+          "id": "icon_global_item_instrument",
+          "name": "icon_global_item_instrument",
+          "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_instrument.png&w=64&q=75",
+          "extension": "png"
+        }
+      }
+    ],
+    "items": [
+      [
+        {
+          "id": "zeus-thunderblade",
+          "name": "Zeus Thunderblade",
+          "url": "/blueprints/weapons/ws/greeksword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "t-rex-buster",
+          "name": "T-Rex Buster",
+          "url": "/blueprints/weapons/ws/dinosword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "plasma-saber",
+          "name": "Plasma Saber",
+          "url": "/blueprints/weapons/ws/spacesword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "djinn-pyre",
+          "name": "Djinn Pyre",
+          "url": "/blueprints/weapons/ws/t13sword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "thorn-of scorn",
+          "name": "Thorn of Scorn",
+          "url": "/blueprints/weapons/ws/pumpkinsword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "épée-d'artagnan",
+          "name": "Épée d'Artagnan",
+          "url": "/blueprints/weapons/ws/musketeersword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "opulent-brand",
+          "name": "Opulent Brand",
+          "url": "/blueprints/weapons/ws/goldsword2",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "titan-sword",
+          "name": "Titan Sword",
+          "url": "/blueprints/weapons/ws/shoprsword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "excalibur",
+          "name": "Excalibur",
+          "url": "/blueprints/weapons/ws/t12sword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "tsukuyomi",
+          "name": "Tsukuyomi",
+          "url": "/blueprints/weapons/ws/moonsword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "elegant-rapier",
+          "name": "Elegant Rapier",
+          "url": "/blueprints/weapons/ws/victoriansword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "vorpal-sword",
+          "name": "Vorpal Sword",
+          "url": "/blueprints/weapons/ws/vorpalsword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "tiger-blade",
+          "name": "Tiger Blade",
+          "url": "/blueprints/weapons/ws/lunarsword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "dragon-dao",
+          "name": "Dragon Dao",
+          "url": "/blueprints/weapons/ws/dragonsword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "caladbolg",
+          "name": "Caladbolg",
+          "url": "/blueprints/weapons/ws/templesword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "oversized-cleaver",
+          "name": "Oversized Cleaver",
+          "url": "/blueprints/weapons/ws/cleaver",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "gentleman-blade",
+          "name": "Gentleman Blade",
+          "url": "/blueprints/weapons/ws/canesword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "seafarer-blade",
+          "name": "Seafarer Blade",
+          "url": "/blueprints/weapons/ws/poloniacutlass",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "mythril-edge",
+          "name": "Mythril Edge",
+          "url": "/blueprints/weapons/ws/falchion",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "crystalline-rapier",
+          "name": "Crystalline Rapier",
+          "url": "/blueprints/weapons/ws/newyearsword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "luxurious-macuahuitl",
+          "name": "Luxurious Macuahuitl",
+          "url": "/blueprints/weapons/ws/goldsword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "damocles",
+          "name": "Damocles",
+          "url": "/blueprints/weapons/ws/ruinssword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "celesteel-blade",
+          "name": "Celesteel Blade",
+          "url": "/blueprints/weapons/ws/celesteelblade",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "chronos-runeblade",
+          "name": "Chronos Runeblade",
+          "url": "/blueprints/weapons/ws/cyclopssword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "regal-blade",
+          "name": "Regal Blade",
+          "url": "/blueprints/weapons/ws/scimitar",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "ruler-of rulers",
+          "name": "Ruler of Rulers",
+          "url": "/blueprints/weapons/ws/officesword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "serrated-cinquedea",
+          "name": "Serrated Cinquedea",
+          "url": "/blueprints/weapons/ws/fallsword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "katana",
+          "name": "Katana",
+          "url": "/blueprints/weapons/ws/katana",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "chocolicious-blade",
+          "name": "Chocolicious Blade",
+          "url": "/blueprints/weapons/ws/candysword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "hero's-sword",
+          "name": "Hero's Sword",
+          "url": "/blueprints/weapons/ws/herosword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "espada",
+          "name": "Espada",
+          "url": "/blueprints/weapons/ws/rapier",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "cutlass",
+          "name": "Cutlass",
+          "url": "/blueprints/weapons/ws/cutlass",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "zweihander",
+          "name": "Zweihander",
+          "url": "/blueprints/weapons/ws/zweihander",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "arboreal-blade",
+          "name": "Arboreal Blade",
+          "url": "/blueprints/weapons/ws/grottosword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "gladius",
+          "name": "Gladius",
+          "url": "/blueprints/weapons/ws/broadsword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "arming-sword",
+          "name": "Arming Sword",
+          "url": "/blueprints/weapons/ws/longsword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        },
+        {
+          "id": "squire-sword",
+          "name": "Squire Sword",
+          "url": "/blueprints/weapons/ws/shortsword",
+          "category": {
+            "id": "weapons",
+            "name": "Weapons",
+            "url": "/blueprints/weapons/ws"
+          },
+          "subCategory": {
+            "id": "sword",
+            "name": "Sword",
+            "url": "/blueprints/weapons/ws",
+            "image": {
+              "id": "icon_global_item_sword",
+              "name": "icon_global_item_sword",
+              "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+              "extension": "png"
+            }
+          }
+        }
+      ]
+    ]
+  }
+]
