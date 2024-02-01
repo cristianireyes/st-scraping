@@ -1,3 +1,4 @@
+/* eslint-disable comma-dangle */
 export const getName = async (elementHandle) => {
   const container = await elementHandle.$('.CardBanner_contentText__7sbfG')
   const name = container.textContent()
@@ -28,6 +29,17 @@ export const getImage = async (elementHandle) => {
   return {
     url,
     name,
-    extension
+    extension,
+  }
+}
+
+export const measureExecutionTime = async ({ fn }) => {
+  const startTime = performance.now()
+  await fn()
+  const endTime = performance.now()
+
+  return {
+    message: `Call to doSomething took ${endTime - startTime} milliseconds`,
+    time: endTime - startTime,
   }
 }
