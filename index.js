@@ -1,15 +1,22 @@
+// @ts-check
 /* eslint-disable comma-dangle */
 const { chromium } = require('playwright')
 
 // TODO: Extract to config file.
 const baseUrl = 'https://playshoptitans.com'
-const blueprintsUrl = 'https://playshoptitans.com/blueprints'
+const blueprintsPageUrl = 'https://playshoptitans.com/blueprints'
 
 const CLASS_MAP = {
   cardItem: '.BlueprintCard_container__VdUlH',
   itemInfo: '.BlueprintCard_info__em_9K',
   category: '.CategorySelector_link__DLxmb',
   subCategory: '.SubCategorySelector_link__EFlmX',
+}
+
+const LOCATOR_MAP = {
+  subCategories: async ({ page }) => await page.locator(CLASS_MAP.subCategory).all(),
+  categories: async ({ page }) => await page.locator(CLASS_MAP.category).all(),
+  items: async ({ page }) => await page.locator(CLASS_MAP.cardItem).all(),
 }
 
 const extractUrl = ({ stringHtml }) => (stringHtml || '').split('"')[1]
@@ -55,9 +62,8 @@ const getItems = async ({ itemLocators }) => {
   return urls
 }
 
-const getCategories = async ({ page }) => {
+const getCategories = async ({ page, categoryLocators }) => {
   const categories = []
-  const categoryLocators = await page.locator(CLASS_MAP.category).all()
 
   for (const categoryLocator of categoryLocators || []) {
     const url = await categoryLocator.getAttribute('href')
@@ -78,13 +84,12 @@ const getCategories = async ({ page }) => {
 }
 
 // TODO: Should receive categories by parameter.
-const getSubCategories = async ({ page }) => {
+const getSubCategories = async ({ page, subCategoryLocators }) => {
   const subCategories = []
-  const subCategoryLocators = await page.locator(CLASS_MAP.subCategory).all()
 
   for (const subCategoryLocator of subCategoryLocators || []) {
-    const name = await subCategoryLocator.getAttribute('title')
-    const url = await subCategoryLocator.getAttribute('href')
+    const name = await subCategoryLocator?.getAttribute('title')
+    const url = await subCategoryLocator?.getAttribute('href')
     const image = await buildImage({
       imageLocator: await subCategoryLocator.getByAltText(name),
     })
@@ -110,7 +115,7 @@ const getItemPages = async ({ page, subCategories }) => {
     console.log(`Extrayendo de ${url}`)
 
     const items = await getItems({
-      itemLocators: await page.locator(CLASS_MAP.cardItem).all(),
+      itemLocators: await LOCATOR_MAP.items({ page }),
     })
 
     itemPages.push(items)
@@ -119,45 +124,88 @@ const getItemPages = async ({ page, subCategories }) => {
   return itemPages.flat()
 }
 
+const extractItemInfo = async ({ page }) => {
+  console.log(`Extrayendo de ${page.url()}`)
+
+  const name = await page.locator('.Blueprint_itemName__0SARg').textContent()
+  const description = await page
+    .locator('.Blueprint_itemDescription__xLAdi')
+    .textContent()
+  const tier = await page.locator('.CardAttribute_tierValue__FHWkO').textContent()
+
+  const resources = await page
+    .locator('.Resource_resource__R50XB')
+    .all()
+    .then(async (resourcesLocators) => {
+      const resources = []
+      for (const resourceLocator of resourcesLocators) {
+        const imageLocator = resourceLocator.getByRole('img')
+        const resource = {
+          image: {
+            name: await imageLocator.getAttribute('alt'),
+            url: await buildImage({ imageLocator }),
+          },
+          name: await imageLocator.getAttribute('alt'),
+        }
+        resources.push(resource)
+      }
+      return resources
+    })
+
+  const result = {
+    name,
+    description,
+    tier,
+    resources,
+  }
+
+  return result
+}
+
+const bluidBlueprint = async ({ page, categories }) => {
+  const blueprints = []
+  for (const category of categories.slice(0, 1)) {
+    await page.goto(buildUrl({ url: category.url }))
+
+    const subCategoryLocators = await LOCATOR_MAP.subCategories({ page })
+    const subCategories = await getSubCategories({ page, subCategoryLocators })
+    const items = await getItemPages({ page, subCategories })
+
+    blueprints.push({
+      id: category.id,
+      category,
+      subCategories,
+      items,
+    })
+  }
+
+  return blueprints
+}
+
+const getItemPageUrls = ({ blueprints }) => {
+  if (!Array.isArray(blueprints)) return []
+
+  return blueprints.map((category) => category.items.map((item) => item.url)).flat()
+}
+
 /**
  * Inicio de extracción
  */
 ;(async () => {
   const browser = await chromium.launch({ headless: false })
   const page = await browser.newPage()
-  await page.goto(blueprintsUrl)
-  const urlpage = await page.url()
 
+  await page.goto(blueprintsPageUrl)
+
+  // Log
   const startTime = performance.now()
+  console.log(`Iniciando extracción en ${page.url()}`)
 
-  console.log(`Iniciando extracción en ${urlpage}`)
-
-  const categories = await getCategories({ page })
-
-  // TODO: Escribir en JSON
-  const categoriesEnriched = []
-
-  // TODO: Revisar si se puede desacoplar para consultar categories & subCategories*
-  // TODO: *de manera independiente, para evitar bucle
-  // TODO: Comprobar si este cambio beneficia la performance.
-  for (const category of categories.slice(0, 1)) {
-    await page.goto(buildUrl({ url: category.url }))
-
-    const subCategories = await getSubCategories({ page })
-    const itemPages = await getItemPages({ page, subCategories })
-
-    categoriesEnriched.push({
-      ...category,
-      subCategories,
-      itemPages,
-    })
-  }
-
-  // TODO: Evaluar sacarlo a fn.
-  // TODO: Consumir de JSON.
-  const itemPagesUrls = categoriesEnriched
-    .map((category) => category.itemPages.map((item) => item.url))
-    .flat()
+  // Extraction
+  const categoryLocators = await LOCATOR_MAP.categories({ page })
+  const categories = await getCategories({ page, categoryLocators })
+  const blueprints = await bluidBlueprint({ page, categories })
+  const itemPagesUrls = getItemPageUrls({ blueprints })
 
   const endTime = performance.now()
   console.log(`[Excecution Time]: ${Math.round(endTime - startTime)} ms`)
@@ -171,39 +219,9 @@ const getItemPages = async ({ page, subCategories }) => {
     const url = await page.url()
     console.log(`Extrayendo de ${url}`)
 
-    const name = await page.locator('.Blueprint_itemName__0SARg').textContent()
-    const description = await page
-      .locator('.Blueprint_itemDescription__xLAdi')
-      .textContent()
-    const tier = await page.locator('.CardAttribute_tierValue__FHWkO').textContent()
+    const item = await extractItemInfo({ page })
 
-    const resources = await page
-      .locator('.Resource_resource__R50XB')
-      .all()
-      .then(async (resourcesLocators) => {
-        const resources = []
-        for (const resourceLocator of resourcesLocators) {
-          const imageLocator = resourceLocator.getByRole('img')
-          const resource = {
-            image: {
-              name: await imageLocator.getAttribute('alt'),
-              url: await buildImage({ imageLocator }),
-            },
-            name: await imageLocator.getAttribute('alt'),
-          }
-          resources.push(resource)
-        }
-        return resources
-      })
-
-    const result = {
-      name,
-      description,
-      tier,
-      resources,
-    }
-
-    console.log(result)
+    console.log(item)
   }
 
   // TODO: Restore after testing implementation.
