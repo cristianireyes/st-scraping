@@ -1,0 +1,506 @@
+[
+  {
+    "id": "sword",
+    "name": "Sword",
+    "url": "/blueprints/weapons/ws",
+    "image": {
+      "id": "icon_global_item_sword",
+      "name": "icon_global_item_sword",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_sword.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "weapons"
+  },
+  {
+    "id": "axe",
+    "name": "Axe",
+    "url": "/blueprints/weapons/wa",
+    "image": {
+      "id": "icon_global_item_axe",
+      "name": "icon_global_item_axe",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_axe.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "weapons"
+  },
+  {
+    "id": "dagger",
+    "name": "Dagger",
+    "url": "/blueprints/weapons/wd",
+    "image": {
+      "id": "icon_global_item_dagger",
+      "name": "icon_global_item_dagger",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_dagger.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "weapons"
+  },
+  {
+    "id": "mace",
+    "name": "Mace",
+    "url": "/blueprints/weapons/wm",
+    "image": {
+      "id": "icon_global_item_mace",
+      "name": "icon_global_item_mace",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_mace.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "weapons"
+  },
+  {
+    "id": "spear",
+    "name": "Spear",
+    "url": "/blueprints/weapons/wp",
+    "image": {
+      "id": "icon_global_item_spear",
+      "name": "icon_global_item_spear",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_spear.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "weapons"
+  },
+  {
+    "id": "bow",
+    "name": "Bow",
+    "url": "/blueprints/weapons/wb",
+    "image": {
+      "id": "icon_global_item_bow",
+      "name": "icon_global_item_bow",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_bow.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "weapons"
+  },
+  {
+    "id": "wand",
+    "name": "Wand",
+    "url": "/blueprints/weapons/ww",
+    "image": {
+      "id": "icon_global_item_wand",
+      "name": "icon_global_item_wand",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_wand.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "weapons"
+  },
+  {
+    "id": "staff",
+    "name": "Staff",
+    "url": "/blueprints/weapons/wt",
+    "image": {
+      "id": "icon_global_item_staff",
+      "name": "icon_global_item_staff",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_staff.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "weapons"
+  },
+  {
+    "id": "crossbow",
+    "name": "Crossbow",
+    "url": "/blueprints/weapons/wc",
+    "image": {
+      "id": "icon_global_item_crossbow",
+      "name": "icon_global_item_crossbow",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_crossbow.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "weapons"
+  },
+  {
+    "id": "gun",
+    "name": "Gun",
+    "url": "/blueprints/weapons/wg",
+    "image": {
+      "id": "icon_global_item_gun",
+      "name": "icon_global_item_gun",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_gun.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "weapons"
+  },
+  {
+    "id": "instrument",
+    "name": "Instrument",
+    "url": "/blueprints/weapons/wi",
+    "image": {
+      "id": "icon_global_item_instrument",
+      "name": "icon_global_item_instrument",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_instrument.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "weapons"
+  },
+  {
+    "id": "heavy-armor",
+    "name": "Heavy Armor",
+    "url": "/blueprints/armor/ah",
+    "image": {
+      "id": "icon_global_item_armorheavy",
+      "name": "icon_global_item_armorheavy",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_armorheavy.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "armor"
+  },
+  {
+    "id": "light-armor",
+    "name": "Light Armor",
+    "url": "/blueprints/armor/am",
+    "image": {
+      "id": "icon_global_item_armormedium",
+      "name": "icon_global_item_armormedium",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_armormedium.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "armor"
+  },
+  {
+    "id": "clothes",
+    "name": "Clothes",
+    "url": "/blueprints/armor/al",
+    "image": {
+      "id": "icon_global_item_armorlight",
+      "name": "icon_global_item_armorlight",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_armorlight.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "armor"
+  },
+  {
+    "id": "helmet",
+    "name": "Helmet",
+    "url": "/blueprints/armor/hh",
+    "image": {
+      "id": "icon_global_item_helmet",
+      "name": "icon_global_item_helmet",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_helmet.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "armor"
+  },
+  {
+    "id": "rogue-hat",
+    "name": "Rogue Hat",
+    "url": "/blueprints/armor/hm",
+    "image": {
+      "id": "icon_global_item_roguehat",
+      "name": "icon_global_item_roguehat",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_roguehat.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "armor"
+  },
+  {
+    "id": "magician-hat",
+    "name": "Magician Hat",
+    "url": "/blueprints/armor/hl",
+    "image": {
+      "id": "icon_global_item_hat",
+      "name": "icon_global_item_hat",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_hat.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "armor"
+  },
+  {
+    "id": "gauntlets",
+    "name": "Gauntlets",
+    "url": "/blueprints/armor/gh",
+    "image": {
+      "id": "icon_global_item_gauntlets",
+      "name": "icon_global_item_gauntlets",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_gauntlets.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "armor"
+  },
+  {
+    "id": "gloves",
+    "name": "Gloves",
+    "url": "/blueprints/armor/gl",
+    "image": {
+      "id": "icon_global_item_bracers",
+      "name": "icon_global_item_bracers",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_bracers.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "armor"
+  },
+  {
+    "id": "heavy-footwear",
+    "name": "Heavy Footwear",
+    "url": "/blueprints/armor/bh",
+    "image": {
+      "id": "icon_global_item_boots",
+      "name": "icon_global_item_boots",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_boots.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "armor"
+  },
+  {
+    "id": "light-footwear",
+    "name": "Light Footwear",
+    "url": "/blueprints/armor/bl",
+    "image": {
+      "id": "icon_global_item_shoes",
+      "name": "icon_global_item_shoes",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_shoes.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "armor"
+  },
+  {
+    "id": "herbal-medicine",
+    "name": "Herbal Medicine",
+    "url": "/blueprints/accessories/uh",
+    "image": {
+      "id": "icon_global_item_herb",
+      "name": "icon_global_item_herb",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_herb.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "accessories"
+  },
+  {
+    "id": "potion",
+    "name": "Potion",
+    "url": "/blueprints/accessories/up",
+    "image": {
+      "id": "icon_global_item_potion",
+      "name": "icon_global_item_potion",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_potion.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "accessories"
+  },
+  {
+    "id": "spell",
+    "name": "Spell",
+    "url": "/blueprints/accessories/us",
+    "image": {
+      "id": "icon_global_item_scrolls",
+      "name": "icon_global_item_scrolls",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_scrolls.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "accessories"
+  },
+  {
+    "id": "shield",
+    "name": "Shield",
+    "url": "/blueprints/accessories/xs",
+    "image": {
+      "id": "icon_global_item_shield",
+      "name": "icon_global_item_shield",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_shield.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "accessories"
+  },
+  {
+    "id": "cloak",
+    "name": "Cloak",
+    "url": "/blueprints/accessories/xc",
+    "image": {
+      "id": "icon_global_item_cloak",
+      "name": "icon_global_item_cloak",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_cloak.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "accessories"
+  },
+  {
+    "id": "ring",
+    "name": "Ring",
+    "url": "/blueprints/accessories/xr",
+    "image": {
+      "id": "icon_global_item_ring",
+      "name": "icon_global_item_ring",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_ring.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "accessories"
+  },
+  {
+    "id": "amulet",
+    "name": "Amulet",
+    "url": "/blueprints/accessories/xa",
+    "image": {
+      "id": "icon_global_item_amulet",
+      "name": "icon_global_item_amulet",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_amulet.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "accessories"
+  },
+  {
+    "id": "familiar",
+    "name": "Familiar",
+    "url": "/blueprints/accessories/xf",
+    "image": {
+      "id": "icon_global_item_familiar",
+      "name": "icon_global_item_familiar",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_familiar.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "accessories"
+  },
+  {
+    "id": "aurasong",
+    "name": "Aurasong",
+    "url": "/blueprints/accessories/xx",
+    "image": {
+      "id": "icon_global_item_aurastone",
+      "name": "icon_global_item_aurastone",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_aurastone.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "accessories"
+  },
+  {
+    "id": "meal",
+    "name": "Meal",
+    "url": "/blueprints/accessories/fm",
+    "image": {
+      "id": "icon_global_item_meal",
+      "name": "icon_global_item_meal",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_meal.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "accessories"
+  },
+  {
+    "id": "dessert",
+    "name": "Dessert",
+    "url": "/blueprints/accessories/fd",
+    "image": {
+      "id": "icon_global_item_dessert",
+      "name": "icon_global_item_dessert",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_dessert.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "accessories"
+  },
+  {
+    "id": "runestone",
+    "name": "Runestone",
+    "url": "/blueprints/stones/xu",
+    "image": {
+      "id": "icon_global_item_rune",
+      "name": "icon_global_item_rune",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_rune.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "stones"
+  },
+  {
+    "id": "moonstone",
+    "name": "Moonstone",
+    "url": "/blueprints/stones/xm",
+    "image": {
+      "id": "icon_global_item_moonstone",
+      "name": "icon_global_item_moonstone",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_moonstone.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "stones"
+  },
+  {
+    "id": "fire",
+    "name": "Fire",
+    "url": "/blueprints/enchantments/fire",
+    "image": {
+      "id": "icon_global_item_fire",
+      "name": "icon_global_item_fire",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_fire.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "enchantments"
+  },
+  {
+    "id": "water",
+    "name": "Water",
+    "url": "/blueprints/enchantments/water",
+    "image": {
+      "id": "icon_global_item_water",
+      "name": "icon_global_item_water",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_water.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "enchantments"
+  },
+  {
+    "id": "earth",
+    "name": "Earth",
+    "url": "/blueprints/enchantments/earth",
+    "image": {
+      "id": "icon_global_item_earth",
+      "name": "icon_global_item_earth",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_earth.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "enchantments"
+  },
+  {
+    "id": "air",
+    "name": "Air",
+    "url": "/blueprints/enchantments/air",
+    "image": {
+      "id": "icon_global_item_air",
+      "name": "icon_global_item_air",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_air.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "enchantments"
+  },
+  {
+    "id": "light",
+    "name": "Light",
+    "url": "/blueprints/enchantments/light",
+    "image": {
+      "id": "icon_global_item_light",
+      "name": "icon_global_item_light",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_light.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "enchantments"
+  },
+  {
+    "id": "dark",
+    "name": "Dark",
+    "url": "/blueprints/enchantments/dark",
+    "image": {
+      "id": "icon_global_item_dark",
+      "name": "icon_global_item_dark",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_dark.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "enchantments"
+  },
+  {
+    "id": "gold",
+    "name": "Gold",
+    "url": "/blueprints/enchantments/gold",
+    "image": {
+      "id": "icon_global_item_gold",
+      "name": "icon_global_item_gold",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_gold.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "enchantments"
+  },
+  {
+    "id": "spirit",
+    "name": "Spirit",
+    "url": "/blueprints/enchantments/spirit",
+    "image": {
+      "id": "icon_global_item_spirit",
+      "name": "icon_global_item_spirit",
+      "url": "/_next/image?url=%2Fassets%2Fui%2Ftypes%2Ficon_global_item_spirit.png&w=64&q=75",
+      "extension": "png"
+    },
+    "categoryId": "enchantments"
+  }
+]

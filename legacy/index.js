@@ -1,10 +1,16 @@
 // @ts-check
 /* eslint-disable comma-dangle */
 const { chromium } = require('playwright')
+const fs = require('fs')
+
+const BASE_URL = 'https://playshoptitans.com'
+const PAGES = {
+  home: '/',
+  blueprints: '/blueprints',
+}
 
 // TODO: Extract to config file.
 const baseUrl = 'https://playshoptitans.com'
-const blueprintsPageUrl = 'https://playshoptitans.com/blueprints'
 
 const CLASS_MAP = {
   cardItem: '.BlueprintCard_container__VdUlH',
@@ -18,6 +24,14 @@ const LOCATOR_MAP = {
   categories: async ({ page }) => await page.locator(CLASS_MAP.category).all(),
   items: async ({ page }) => await page.locator(CLASS_MAP.cardItem).all(),
 }
+
+const writeFile = async ({ path, data }) =>
+  new Promise(function (resolve, reject) {
+    fs.writeFile(path, JSON.stringify(data, null, 2), function (err) {
+      if (err) reject(err)
+      else resolve(data)
+    })
+  })
 
 const extractUrl = ({ stringHtml }) => (stringHtml || '').split('"')[1]
 const buildUrl = ({ url }) => `${baseUrl}${url}`
@@ -108,7 +122,7 @@ const getSubCategories = async ({ page, subCategoryLocators }) => {
 const getItemPages = async ({ page, subCategories }) => {
   const itemPages = []
 
-  for (const subCategory of subCategories.slice(0, 3)) {
+  for (const subCategory of subCategories) {
     await page.goto(buildUrl({ url: subCategory.url }))
 
     const url = await page.url()
@@ -124,47 +138,12 @@ const getItemPages = async ({ page, subCategories }) => {
   return itemPages.flat()
 }
 
-const extractItemInfo = async ({ page }) => {
-  console.log(`Extrayendo de ${page.url()}`)
+const getBlueprints = async ({ page }) => {
+  const categoryLocators = await LOCATOR_MAP.categories({ page })
+  const categories = await getCategories({ page, categoryLocators })
 
-  const name = await page.locator('.Blueprint_itemName__0SARg').textContent()
-  const description = await page
-    .locator('.Blueprint_itemDescription__xLAdi')
-    .textContent()
-  const tier = await page.locator('.CardAttribute_tierValue__FHWkO').textContent()
-
-  const resources = await page
-    .locator('.Resource_resource__R50XB')
-    .all()
-    .then(async (resourcesLocators) => {
-      const resources = []
-      for (const resourceLocator of resourcesLocators) {
-        const imageLocator = resourceLocator.getByRole('img')
-        const resource = {
-          image: {
-            name: await imageLocator.getAttribute('alt'),
-            url: await buildImage({ imageLocator }),
-          },
-          name: await imageLocator.getAttribute('alt'),
-        }
-        resources.push(resource)
-      }
-      return resources
-    })
-
-  const result = {
-    name,
-    description,
-    tier,
-    resources,
-  }
-
-  return result
-}
-
-const bluidBlueprint = async ({ page, categories }) => {
   const blueprints = []
-  for (const category of categories.slice(0, 1)) {
+  for (const category of categories) {
     await page.goto(buildUrl({ url: category.url }))
 
     const subCategoryLocators = await LOCATOR_MAP.subCategories({ page })
@@ -182,48 +161,29 @@ const bluidBlueprint = async ({ page, categories }) => {
   return blueprints
 }
 
-const getItemPageUrls = ({ blueprints }) => {
-  if (!Array.isArray(blueprints)) return []
-
-  return blueprints.map((category) => category.items.map((item) => item.url)).flat()
-}
-
 /**
  * Inicio de extracción
  */
 ;(async () => {
-  const browser = await chromium.launch({ headless: false })
-  const page = await browser.newPage()
+  const browser = await chromium.launch({ headless: false, timeout: 60000 })
+  const page = await browser.newPage({ baseURL: BASE_URL })
 
-  await page.goto(blueprintsPageUrl)
+  await page.goto(PAGES.blueprints)
 
   // Log
   const startTime = performance.now()
   console.log(`Iniciando extracción en ${page.url()}`)
 
   // Extraction
-  const categoryLocators = await LOCATOR_MAP.categories({ page })
-  const categories = await getCategories({ page, categoryLocators })
-  const blueprints = await bluidBlueprint({ page, categories })
-  const itemPagesUrls = getItemPageUrls({ blueprints })
+  const blueprints = await getBlueprints({ page })
+
+  await writeFile({
+    path: 'data/blueprints.json',
+    data: blueprints,
+  })
 
   const endTime = performance.now()
   console.log(`[Excecution Time]: ${Math.round(endTime - startTime)} ms`)
 
-  /**
-   * * Extracción de info de items desde page items
-   */
-
-  for (const itemPageUrl of itemPagesUrls.slice(0, 1)) {
-    await page.goto(buildUrl({ url: itemPageUrl }))
-    const url = await page.url()
-    console.log(`Extrayendo de ${url}`)
-
-    const item = await extractItemInfo({ page })
-
-    console.log(item)
-  }
-
-  // TODO: Restore after testing implementation.
-  // await browser.close()
+  await browser.close()
 })()

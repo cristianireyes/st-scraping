@@ -1,0 +1,6491 @@
+[
+  {
+    "id": "nilean-dawn",
+    "name": "Nilean Dawn",
+    "url": "/blueprints/weapons/wa/egyptaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "platinum-war axe",
+    "name": "Platinum War Axe",
+    "url": "/blueprints/weapons/wa/platinumaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "moltin'-crabcracker",
+    "name": "Moltin' Crabcracker",
+    "url": "/blueprints/weapons/wa/firecrabaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "edge-eternal",
+    "name": "Edge Eternal",
+    "url": "/blueprints/weapons/wa/t13axe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "apex-goraxe",
+    "name": "Apex Goraxe",
+    "url": "/blueprints/weapons/wa/dinoaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "lover's-quarrel",
+    "name": "Lover's Quarrel",
+    "url": "/blueprints/weapons/wa/valentineaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "onyx-king axe",
+    "name": "Onyx King Axe",
+    "url": "/blueprints/weapons/wa/chessaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "crescent-of conquest",
+    "name": "Crescent of Conquest",
+    "url": "/blueprints/weapons/wa/t12axe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "jötunnbane",
+    "name": "Jötunnbane",
+    "url": "/blueprints/weapons/wa/aegiraxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "shroom-doom",
+    "name": "Shroom Doom",
+    "url": "/blueprints/weapons/wa/fallaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "beeswaxe",
+    "name": "Beeswaxe",
+    "url": "/blueprints/weapons/wa/beeaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "manticore-slayer",
+    "name": "Manticore Slayer",
+    "url": "/blueprints/weapons/wa/manticoreaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "kodiak-kleaver",
+    "name": "Kodiak Kleaver",
+    "url": "/blueprints/weapons/wa/coupleaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "opulent-grandaxe",
+    "name": "Opulent Grandaxe",
+    "url": "/blueprints/weapons/wa/goldaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "terra-tyrannis",
+    "name": "Terra Tyrannis",
+    "url": "/blueprints/weapons/wa/templeaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "eclipsis",
+    "name": "Eclipsis",
+    "url": "/blueprints/weapons/wa/crescentaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "axe-of the fifth",
+    "name": "Axe of The Fifth",
+    "url": "/blueprints/weapons/wa/cincoaxe2020",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "purgatory",
+    "name": "Purgatory",
+    "url": "/blueprints/weapons/wa/castleaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "executioner",
+    "name": "Executioner",
+    "url": "/blueprints/weapons/wa/executioner",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "qian-chopper",
+    "name": "Qian Chopper",
+    "url": "/blueprints/weapons/wa/lunaraxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "raider-axe",
+    "name": "Raider Axe",
+    "url": "/blueprints/weapons/wa/raideraxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "stonesplitter",
+    "name": "Stonesplitter",
+    "url": "/blueprints/weapons/wa/pyramidaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "dwarven-greataxe",
+    "name": "Dwarven Greataxe",
+    "url": "/blueprints/weapons/wa/steelaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "raptor-reaper",
+    "name": "Raptor Reaper",
+    "url": "/blueprints/weapons/wa/birdaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "battleaxe",
+    "name": "Battleaxe",
+    "url": "/blueprints/weapons/wa/battleaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "cold-iron axe",
+    "name": "Cold Iron Axe",
+    "url": "/blueprints/weapons/wa/snowaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "companion-axe",
+    "name": "Companion Axe",
+    "url": "/blueprints/weapons/wa/starteraxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "tomahawk",
+    "name": "Tomahawk",
+    "url": "/blueprints/weapons/wa/tomahawk",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "dismantler's-pickaxe",
+    "name": "Dismantler's Pickaxe",
+    "url": "/blueprints/weapons/wa/epicaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "molten-voulge",
+    "name": "Molten Voulge",
+    "url": "/blueprints/weapons/wa/grottoaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "bardiche",
+    "name": "Bardiche",
+    "url": "/blueprints/weapons/wa/halberd",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "explorer's-axe",
+    "name": "Explorer's Axe",
+    "url": "/blueprints/weapons/wa/exploreraxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "iron-chopper",
+    "name": "Iron Chopper",
+    "url": "/blueprints/weapons/wa/doublebitted",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "hatchet",
+    "name": "Hatchet",
+    "url": "/blueprints/weapons/wa/hatchet",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "wood-axe",
+    "name": "Wood Axe",
+    "url": "/blueprints/weapons/wa/boysaxe",
+    "categoryId": "weapons",
+    "subCategoryId": "axe"
+  },
+  {
+    "id": "creature's-claw",
+    "name": "Creature's Claw",
+    "url": "/blueprints/weapons/wd/voiddagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "the-final death",
+    "name": "The Final Death",
+    "url": "/blueprints/weapons/wd/vampiredagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "serial-quiller",
+    "name": "Serial Quiller",
+    "url": "/blueprints/weapons/wd/harpydagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "ranger's-multitool",
+    "name": "Ranger's Multitool",
+    "url": "/blueprints/weapons/wd/campingdagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "nocturne",
+    "name": "Nocturne",
+    "url": "/blueprints/weapons/wd/t13dagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "empress-war fan",
+    "name": "Empress War Fan",
+    "url": "/blueprints/weapons/wd/lunardagger2",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "celesteel-knuckles",
+    "name": "Celesteel Knuckles",
+    "url": "/blueprints/weapons/wd/mushroomdagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "opulent-tecpatl",
+    "name": "Opulent Tecpatl",
+    "url": "/blueprints/weapons/wd/golddagger2",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "sixth-sin",
+    "name": "Sixth Sin",
+    "url": "/blueprints/weapons/wd/t12dagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "wiccan-dagger",
+    "name": "Wiccan Dagger",
+    "url": "/blueprints/weapons/wd/wiccandagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "kyoshi-warrior fan",
+    "name": "Kyoshi Warrior Fan",
+    "url": "/blueprints/weapons/wd/atlab_kyoshifan",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "nightwing-bolt",
+    "name": "Nightwing Bolt",
+    "url": "/blueprints/weapons/wd/halloweendagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "last-breath",
+    "name": "Last Breath",
+    "url": "/blueprints/weapons/wd/peakdagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "heartseeker",
+    "name": "Heartseeker",
+    "url": "/blueprints/weapons/wd/heartseeker",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "lucky-strike",
+    "name": "Lucky Strike",
+    "url": "/blueprints/weapons/wd/stpatrickdagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "swan's-edge",
+    "name": "Swan's Edge",
+    "url": "/blueprints/weapons/wd/siadagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "nightmare-fellblade",
+    "name": "Nightmare Fellblade",
+    "url": "/blueprints/weapons/wd/templedagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "ceremonial-katar",
+    "name": "Ceremonial Katar",
+    "url": "/blueprints/weapons/wd/katar",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "luxurious-poignard",
+    "name": "Luxurious Poignard",
+    "url": "/blueprints/weapons/wd/golddagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "sultan-dagger",
+    "name": "Sultan Dagger",
+    "url": "/blueprints/weapons/wd/sultandagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "misericordia",
+    "name": "Misericordia",
+    "url": "/blueprints/weapons/wd/misericordia",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "levia-fang",
+    "name": "Levia Fang",
+    "url": "/blueprints/weapons/wd/ruinsdagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "troll-tooth",
+    "name": "Troll Tooth",
+    "url": "/blueprints/weapons/wd/trolltooth",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "juniper's-trowel",
+    "name": "Juniper's Trowel",
+    "url": "/blueprints/weapons/wd/junimaydagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "fishmonger",
+    "name": "Fishmonger",
+    "url": "/blueprints/weapons/wd/guttingknife",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "iced-flavorpop",
+    "name": "Iced FlavorPop",
+    "url": "/blueprints/weapons/wd/beachdagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "cloudwalker-chakram",
+    "name": "Cloudwalker Chakram",
+    "url": "/blueprints/weapons/wd/lunardagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "kingsguard",
+    "name": "Kingsguard",
+    "url": "/blueprints/weapons/wd/dirk",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "assassin-tanto",
+    "name": "Assassin Tanto",
+    "url": "/blueprints/weapons/wd/yamidagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "sokka's-boomerang",
+    "name": "Sokka's Boomerang",
+    "url": "/blueprints/weapons/wd/atlab_boomerang",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "ritual-dagger",
+    "name": "Ritual Dagger",
+    "url": "/blueprints/weapons/wd/kris",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "erudite-vector",
+    "name": "Erudite Vector",
+    "url": "/blueprints/weapons/wd/schooldagger2020",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "balisong",
+    "name": "Balisong",
+    "url": "/blueprints/weapons/wd/butterflyknife",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "stealth-knife",
+    "name": "Stealth Knife",
+    "url": "/blueprints/weapons/wd/switchblade",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "kunai",
+    "name": "Kunai",
+    "url": "/blueprints/weapons/wd/kunai",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "swift-blade",
+    "name": "Swift Blade",
+    "url": "/blueprints/weapons/wd/dagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "ice-pick",
+    "name": "Ice Pick",
+    "url": "/blueprints/weapons/wd/forestdagger",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "shiv",
+    "name": "Shiv",
+    "url": "/blueprints/weapons/wd/kitchenknife",
+    "categoryId": "weapons",
+    "subCategoryId": "dagger"
+  },
+  {
+    "id": "leathermaster's-mallet",
+    "name": "Leathermaster's Mallet",
+    "url": "/blueprints/weapons/wm/tamasmace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "the-m.a.u.l.",
+    "name": "The M.A.U.L.",
+    "url": "/blueprints/weapons/wm/cybermace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "platinum-maul",
+    "name": "Platinum Maul",
+    "url": "/blueprints/weapons/wm/platinummace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "smash-hit",
+    "name": "Smash Hit",
+    "url": "/blueprints/weapons/wm/musicmace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "crag-guardian",
+    "name": "Crag Guardian",
+    "url": "/blueprints/weapons/wm/t13mace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "merry-christmace",
+    "name": "Merry Christmace",
+    "url": "/blueprints/weapons/wm/christmasmace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "eggshell-smasher",
+    "name": "Eggshell Smasher",
+    "url": "/blueprints/weapons/wm/eastermace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "mjölnir",
+    "name": "Mjölnir",
+    "url": "/blueprints/weapons/wm/t12mace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "sokka's-club",
+    "name": "Sokka's Club",
+    "url": "/blueprints/weapons/wm/atlab_mace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "gaia-maul",
+    "name": "Gaia Maul",
+    "url": "/blueprints/weapons/wm/naturehammer",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "sunglow-impact",
+    "name": "Sunglow Impact",
+    "url": "/blueprints/weapons/wm/peakhammer",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "thorium-hammer",
+    "name": "Thorium Hammer",
+    "url": "/blueprints/weapons/wm/emeraldhammer",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "mundra's-masher",
+    "name": "Mundra's Masher",
+    "url": "/blueprints/weapons/wm/mundrahammer",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "opulent-maul",
+    "name": "Opulent Maul",
+    "url": "/blueprints/weapons/wm/goldhammer",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "nautilus",
+    "name": "Nautilus",
+    "url": "/blueprints/weapons/wm/nautilus",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "striped-star",
+    "name": "Striped Star",
+    "url": "/blueprints/weapons/wm/freedommace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "wallace-mallet",
+    "name": "Wallace Mallet",
+    "url": "/blueprints/weapons/wm/smithhammer",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "tenderizer",
+    "name": "Tenderizer",
+    "url": "/blueprints/weapons/wm/tenderizer",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "peppermint-mallet",
+    "name": "Peppermint Mallet",
+    "url": "/blueprints/weapons/wm/candyhammer",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "whack-o'-lantern",
+    "name": "Whack-O'-Lantern",
+    "url": "/blueprints/weapons/wm/pumpkinmace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "powder-keg",
+    "name": "Powder Keg",
+    "url": "/blueprints/weapons/wm/powderkeg",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "button-masher",
+    "name": "Button Masher",
+    "url": "/blueprints/weapons/wm/arcademace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "meteor-hammer",
+    "name": "Meteor Hammer",
+    "url": "/blueprints/weapons/wm/pyramidmace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "evening-star",
+    "name": "Evening Star",
+    "url": "/blueprints/weapons/wm/midnightstar",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "troublin-bludgeon",
+    "name": "Troublin Bludgeon",
+    "url": "/blueprints/weapons/wm/troblinmace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "skull-crusher",
+    "name": "Skull Crusher",
+    "url": "/blueprints/weapons/wm/ancienthammer",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "first-morning star",
+    "name": "First Morning Star",
+    "url": "/blueprints/weapons/wm/newyearmace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "flanged-mace",
+    "name": "Flanged Mace",
+    "url": "/blueprints/weapons/wm/heavymace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "inflatable-maul",
+    "name": "Inflatable Maul",
+    "url": "/blueprints/weapons/wm/summermace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "morning-star",
+    "name": "Morning Star",
+    "url": "/blueprints/weapons/wm/morningstar",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "liberty-mace",
+    "name": "Liberty Mace",
+    "url": "/blueprints/weapons/wm/libertymace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "warhammer",
+    "name": "Warhammer",
+    "url": "/blueprints/weapons/wm/hammer",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "darkwood-branch",
+    "name": "Darkwood Branch",
+    "url": "/blueprints/weapons/wm/forestmace",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "spiked-cudgel",
+    "name": "Spiked Cudgel",
+    "url": "/blueprints/weapons/wm/spikedclub",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "cudgel",
+    "name": "Cudgel",
+    "url": "/blueprints/weapons/wm/club",
+    "categoryId": "weapons",
+    "subCategoryId": "mace"
+  },
+  {
+    "id": "tianlong-lance",
+    "name": "Tianlong Lance",
+    "url": "/blueprints/weapons/wp/lunarspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "dire-kakivak",
+    "name": "Dire Kakivak",
+    "url": "/blueprints/weapons/wp/inuitspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "riptide",
+    "name": "Riptide",
+    "url": "/blueprints/weapons/wp/riftspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "blackened-bardiche",
+    "name": "Blackened Bardiche",
+    "url": "/blueprints/weapons/wp/t13spear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "opulent-halberd",
+    "name": "Opulent Halberd",
+    "url": "/blueprints/weapons/wp/goldspear2",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "pokey-parasol",
+    "name": "Pokey Parasol",
+    "url": "/blueprints/weapons/wp/beachspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "propeller-pike",
+    "name": "Propeller-Pike",
+    "url": "/blueprints/weapons/wp/airshipspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "heaven's-wrath",
+    "name": "Heaven's Wrath",
+    "url": "/blueprints/weapons/wp/t12spear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "holy-night lance",
+    "name": "Holy Night Lance",
+    "url": "/blueprints/weapons/wp/christmasspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "jester-jouster",
+    "name": "Jester Jouster",
+    "url": "/blueprints/weapons/wp/circusspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "titania's-gift",
+    "name": "Titania's Gift",
+    "url": "/blueprints/weapons/wp/feyspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "birdbane-halberd",
+    "name": "Birdbane Halberd",
+    "url": "/blueprints/weapons/wp/thanksgivingspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "longinus",
+    "name": "Longinus",
+    "url": "/blueprints/weapons/wp/templespear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "stellaria",
+    "name": "Stellaria",
+    "url": "/blueprints/weapons/wp/stellarspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "luxurious-spear",
+    "name": "Luxurious Spear",
+    "url": "/blueprints/weapons/wp/goldspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "hoartooth-lance",
+    "name": "Hoartooth Lance",
+    "url": "/blueprints/weapons/wp/sylvanspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "wyvern-glaive",
+    "name": "Wyvern Glaive",
+    "url": "/blueprints/weapons/wp/wyvernglaive",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "star-lancer",
+    "name": "Star Lancer",
+    "url": "/blueprints/weapons/wp/newyearspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "sunset-yari",
+    "name": "Sunset Yari",
+    "url": "/blueprints/weapons/wp/fallspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "champion-lance",
+    "name": "Champion Lance",
+    "url": "/blueprints/weapons/wp/championlance",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "warrior-assegai",
+    "name": "Warrior Assegai",
+    "url": "/blueprints/weapons/wp/africanspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "twicicle-javelin",
+    "name": "Twicicle Javelin",
+    "url": "/blueprints/weapons/wp/yetispear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "royal-halberd",
+    "name": "Royal Halberd",
+    "url": "/blueprints/weapons/wp/partisan",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "cu-chulainn's lance",
+    "name": "Cu Chulainn's Lance",
+    "url": "/blueprints/weapons/wp/celticspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "triton-lance",
+    "name": "Triton Lance",
+    "url": "/blueprints/weapons/wp/desertspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "spetum",
+    "name": "Spetum",
+    "url": "/blueprints/weapons/wp/pike",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "warlord-halberd",
+    "name": "Warlord Halberd",
+    "url": "/blueprints/weapons/wp/heavenlyhalberd",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "bunbun-lance",
+    "name": "Bunbun Lance",
+    "url": "/blueprints/weapons/wp/easterspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "trishula",
+    "name": "Trishula",
+    "url": "/blueprints/weapons/wp/trident",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "ranseur",
+    "name": "Ranseur",
+    "url": "/blueprints/weapons/wp/ranseur",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "sturdy-pitchfork",
+    "name": "Sturdy Pitchfork",
+    "url": "/blueprints/weapons/wp/pitchfork",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "bladed-spear",
+    "name": "Bladed Spear",
+    "url": "/blueprints/weapons/wp/bladedspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "hunting-spear",
+    "name": "Hunting Spear",
+    "url": "/blueprints/weapons/wp/ironspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "javelin",
+    "name": "Javelin",
+    "url": "/blueprints/weapons/wp/woodspear",
+    "categoryId": "weapons",
+    "subCategoryId": "spear"
+  },
+  {
+    "id": "queen-of hearts",
+    "name": "Queen of Hearts",
+    "url": "/blueprints/weapons/wb/wonderlandbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "platinum-sniper",
+    "name": "Platinum Sniper",
+    "url": "/blueprints/weapons/wb/platinumbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "jindai-zakura",
+    "name": "Jindai Zakura",
+    "url": "/blueprints/weapons/wb/blossombow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "earthstrung-wings",
+    "name": "Earthstrung Wings",
+    "url": "/blueprints/weapons/wb/riftbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "grand-monarque",
+    "name": "Grand Monarque",
+    "url": "/blueprints/weapons/wb/t13bow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "elite-pathfinder",
+    "name": "Elite Pathfinder",
+    "url": "/blueprints/weapons/wb/thanksgivingbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "power-flipper",
+    "name": "Power Flipper",
+    "url": "/blueprints/weapons/wb/arcadebow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "olympus",
+    "name": "Olympus",
+    "url": "/blueprints/weapons/wb/t12bow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "boughwrought-bow",
+    "name": "Boughwrought Bow",
+    "url": "/blueprints/weapons/wb/frogbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "rising-star",
+    "name": "Rising Star",
+    "url": "/blueprints/weapons/wb/newyearbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "pinata-hunter",
+    "name": "Pinata Hunter",
+    "url": "/blueprints/weapons/wb/cincobow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "opulent-longbow",
+    "name": "Opulent Longbow",
+    "url": "/blueprints/weapons/wb/goldbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "stormrend",
+    "name": "Stormrend",
+    "url": "/blueprints/weapons/wb/stormrend",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "jolly-ranger",
+    "name": "Jolly Ranger",
+    "url": "/blueprints/weapons/wb/christmasbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "gemini-strike",
+    "name": "Gemini Strike",
+    "url": "/blueprints/weapons/wb/twinstrand",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "maplewood-gale",
+    "name": "Maplewood Gale",
+    "url": "/blueprints/weapons/wb/fallbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "bramblebane",
+    "name": "Bramblebane",
+    "url": "/blueprints/weapons/wb/bramblebane",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "cupid-bow",
+    "name": "Cupid Bow",
+    "url": "/blueprints/weapons/wb/valentinebow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "yumi",
+    "name": "Yumi",
+    "url": "/blueprints/weapons/wb/yumi",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "hotshot-bowgun",
+    "name": "Hotshot Bowgun",
+    "url": "/blueprints/weapons/wb/westernbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "l'arabesque",
+    "name": "L'Arabesque",
+    "url": "/blueprints/weapons/wb/compositebow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "dragon-spine",
+    "name": "Dragon Spine",
+    "url": "/blueprints/weapons/wb/lunarbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "quetzal-wing",
+    "name": "Quetzal Wing",
+    "url": "/blueprints/weapons/wb/desertbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "raptoria",
+    "name": "Raptoria",
+    "url": "/blueprints/weapons/wb/wingedbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "hallowed-willow",
+    "name": "Hallowed Willow",
+    "url": "/blueprints/weapons/wb/halloweenbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "deadeye",
+    "name": "Deadeye",
+    "url": "/blueprints/weapons/wb/spikedbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "mundra's-hornbow",
+    "name": "Mundra's Hornbow",
+    "url": "/blueprints/weapons/wb/mundrabow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "compound-bow",
+    "name": "Compound Bow",
+    "url": "/blueprints/weapons/wb/strikerbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "grand-harp",
+    "name": "Grand Harp",
+    "url": "/blueprints/weapons/wb/siabow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "reflex-bow",
+    "name": "Reflex Bow",
+    "url": "/blueprints/weapons/wb/hunterbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "elmwood-bow",
+    "name": "Elmwood Bow",
+    "url": "/blueprints/weapons/wb/longbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "tailwind",
+    "name": "Tailwind",
+    "url": "/blueprints/weapons/wb/forestbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "training-bow",
+    "name": "Training Bow",
+    "url": "/blueprints/weapons/wb/shortbow",
+    "categoryId": "weapons",
+    "subCategoryId": "bow"
+  },
+  {
+    "id": "caduceus",
+    "name": "Caduceus",
+    "url": "/blueprints/weapons/ww/greekwand",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "lampcaster",
+    "name": "Lampcaster",
+    "url": "/blueprints/weapons/ww/gothitawand",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "pyroquartz-rod",
+    "name": "Pyroquartz Rod",
+    "url": "/blueprints/weapons/ww/t13wand",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "fork-of roasting",
+    "name": "Fork of Roasting",
+    "url": "/blueprints/weapons/ww/maplewand",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "ivory-queen rod",
+    "name": "Ivory Queen Rod",
+    "url": "/blueprints/weapons/ww/chesswand",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "herald-of the end",
+    "name": "Herald of the End",
+    "url": "/blueprints/weapons/ww/t12wand",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "moonlight-wand",
+    "name": "Moonlight Wand",
+    "url": "/blueprints/weapons/ww/sailorwand",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "opulent-wand",
+    "name": "Opulent Wand",
+    "url": "/blueprints/weapons/ww/lcogwand",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "draconic-eyestalk",
+    "name": "Draconic Eyestalk",
+    "url": "/blueprints/weapons/ww/dragoneye",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "grimar's-grand wand",
+    "name": "Grimar's Grand Wand",
+    "url": "/blueprints/weapons/ww/wizardwand",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "astral-conductor",
+    "name": "Astral Conductor",
+    "url": "/blueprints/weapons/ww/moonwand",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "equinox-rod",
+    "name": "Equinox Rod",
+    "url": "/blueprints/weapons/ww/fallwand",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "evergreen-wand",
+    "name": "Evergreen Wand",
+    "url": "/blueprints/weapons/ww/flowerwand",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "the-original",
+    "name": "The Original",
+    "url": "/blueprints/weapons/ww/magicwand2",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "wand-of midas",
+    "name": "Wand of Midas",
+    "url": "/blueprints/weapons/ww/goldwand",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "owl-wing wand",
+    "name": "Owl Wing Wand",
+    "url": "/blueprints/weapons/ww/liluwand",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "ruby-wand",
+    "name": "Ruby Wand",
+    "url": "/blueprints/weapons/ww/rubyrod",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "chōchin-gohei",
+    "name": "Chōchin Gohei",
+    "url": "/blueprints/weapons/ww/fallwand2",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "sylvanel",
+    "name": "Sylvanel",
+    "url": "/blueprints/weapons/ww/sylvan",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "peppermint-cane",
+    "name": "Peppermint Cane",
+    "url": "/blueprints/weapons/ww/christmaswand",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "star-rod",
+    "name": "Star Rod",
+    "url": "/blueprints/weapons/ww/starrod",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "steel-rod",
+    "name": "Steel Rod",
+    "url": "/blueprints/weapons/ww/steelrod",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "hexer's-wand",
+    "name": "Hexer's Wand",
+    "url": "/blueprints/weapons/ww/backscratcher",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "elvenwood-wand",
+    "name": "Elvenwood Wand",
+    "url": "/blueprints/weapons/ww/twirled",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "baton",
+    "name": "Baton",
+    "url": "/blueprints/weapons/ww/baton",
+    "categoryId": "weapons",
+    "subCategoryId": "wand"
+  },
+  {
+    "id": "yule's-herald",
+    "name": "Yule's Herald",
+    "url": "/blueprints/weapons/wt/yulestaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "scepter-of ever-wisdom",
+    "name": "Scepter of Ever-Wisdom",
+    "url": "/blueprints/weapons/wt/collectionstaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "gravity-controller",
+    "name": "Gravity Controller",
+    "url": "/blueprints/weapons/wt/riftstaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "cloud-nine",
+    "name": "Cloud Nine",
+    "url": "/blueprints/weapons/wt/t13staff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "pharaoh's-ankh",
+    "name": "Pharaoh's Ankh",
+    "url": "/blueprints/weapons/wt/anubisstaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "soulbinder-staff",
+    "name": "Soulbinder Staff",
+    "url": "/blueprints/weapons/wt/hemmadonstaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "opulent-staff",
+    "name": "Opulent Staff",
+    "url": "/blueprints/weapons/wt/goldstaff2",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "scepter-of xolimnul",
+    "name": "Scepter of Xolimnul",
+    "url": "/blueprints/weapons/wt/t12staff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "heartcaptor's-staff",
+    "name": "Heartcaptor's Staff",
+    "url": "/blueprints/weapons/wt/valentinestaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "ice-queen's scepter",
+    "name": "Ice Queen's Scepter",
+    "url": "/blueprints/weapons/wt/yetistaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "penumbra",
+    "name": "Penumbra",
+    "url": "/blueprints/weapons/wt/penumbra",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "staff-of merriment",
+    "name": "Staff of Merriment",
+    "url": "/blueprints/weapons/wt/christmasstaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "seraphim",
+    "name": "Seraphim",
+    "url": "/blueprints/weapons/wt/conflux",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "zesty-scepter",
+    "name": "Zesty Scepter",
+    "url": "/blueprints/weapons/wt/lemonstaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "tidebringer",
+    "name": "Tidebringer",
+    "url": "/blueprints/weapons/wt/castlestaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "transcendence",
+    "name": "Transcendence",
+    "url": "/blueprints/weapons/wt/transcendance",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "the-backscratcher",
+    "name": "The Backscratcher",
+    "url": "/blueprints/weapons/wt/selfcarestaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "fluted-chime",
+    "name": "Fluted Chime",
+    "url": "/blueprints/weapons/wt/musicstaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "phoenix-staff",
+    "name": "Phoenix Staff",
+    "url": "/blueprints/weapons/wt/ruinsstaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "imperial-aquila",
+    "name": "Imperial Aquila",
+    "url": "/blueprints/weapons/wt/imperialaquila",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "great-pagoda",
+    "name": "Great Pagoda",
+    "url": "/blueprints/weapons/wt/fallstaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "mundra's-scepter",
+    "name": "Mundra's Scepter",
+    "url": "/blueprints/weapons/wt/mundrastaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "celestial-staff",
+    "name": "Celestial Staff",
+    "url": "/blueprints/weapons/wt/celestialrod",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "staff-of seasons",
+    "name": "Staff of Seasons",
+    "url": "/blueprints/weapons/wt/leafstaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "wizard-staff",
+    "name": "Wizard Staff",
+    "url": "/blueprints/weapons/wt/wizardstaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "wiccan-broomstick",
+    "name": "Wiccan Broomstick",
+    "url": "/blueprints/weapons/wt/wiccanstaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "amber-staff",
+    "name": "Amber Staff",
+    "url": "/blueprints/weapons/wt/swampstaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "jade-scepter",
+    "name": "Jade Scepter",
+    "url": "/blueprints/weapons/wt/scepter",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "apprentice-staff",
+    "name": "Apprentice Staff",
+    "url": "/blueprints/weapons/wt/starterstaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "bo-staff",
+    "name": "Bo Staff",
+    "url": "/blueprints/weapons/wt/bo",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "luxurious-stick",
+    "name": "Luxurious Stick",
+    "url": "/blueprints/weapons/wt/goldstaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "owl-perch",
+    "name": "Owl Perch",
+    "url": "/blueprints/weapons/wt/lilustaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "oak-staff",
+    "name": "Oak Staff",
+    "url": "/blueprints/weapons/wt/oakstaff",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "sturdy-cane",
+    "name": "Sturdy Cane",
+    "url": "/blueprints/weapons/wt/cane",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "carved-branch",
+    "name": "Carved Branch",
+    "url": "/blueprints/weapons/wt/woodbranch",
+    "categoryId": "weapons",
+    "subCategoryId": "staff"
+  },
+  {
+    "id": "somnus-boltcaster",
+    "name": "Somnus Boltcaster",
+    "url": "/blueprints/weapons/wc/dreamcrossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "primarosa",
+    "name": "Primarosa",
+    "url": "/blueprints/weapons/wc/t13crossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "baross'-backup",
+    "name": "Baross' Backup",
+    "url": "/blueprints/weapons/wc/airshipcrossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "godslayer-arbalest",
+    "name": "Godslayer Arbalest",
+    "url": "/blueprints/weapons/wc/t12crossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "titan-crossbow",
+    "name": "Titan Crossbow",
+    "url": "/blueprints/weapons/wc/titancrossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "opulent-crossbow",
+    "name": "Opulent Crossbow",
+    "url": "/blueprints/weapons/wc/goldcrossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "leviathan",
+    "name": "Leviathan",
+    "url": "/blueprints/weapons/wc/wyrmthrower",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "nightwing-caster",
+    "name": "Nightwing Caster",
+    "url": "/blueprints/weapons/wc/batcrossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "super-repeater",
+    "name": "Super Repeater",
+    "url": "/blueprints/weapons/wc/handballista",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "triple-crossbow",
+    "name": "Triple Crossbow",
+    "url": "/blueprints/weapons/wc/triplecrossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "dra-ko-nu",
+    "name": "Dra-Ko-Nu",
+    "url": "/blueprints/weapons/wc/dragoncrossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "chu-ko-nu",
+    "name": "Chu-Ko-Nu",
+    "url": "/blueprints/weapons/wc/chukonu",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "double-crossbow",
+    "name": "Double Crossbow",
+    "url": "/blueprints/weapons/wc/doublecrossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "primitech-slingshot",
+    "name": "Primitech Slingshot",
+    "url": "/blueprints/weapons/wc/troblincrossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "scorpio",
+    "name": "Scorpio",
+    "url": "/blueprints/weapons/wc/scorpion",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "hunter's-crossbow",
+    "name": "Hunter's Crossbow",
+    "url": "/blueprints/weapons/wc/huntercrossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "cluckthrower",
+    "name": "Cluckthrower",
+    "url": "/blueprints/weapons/wc/thanksgivingcrossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "heavy-crossbow",
+    "name": "Heavy Crossbow",
+    "url": "/blueprints/weapons/wc/heavycrossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "arbalest",
+    "name": "Arbalest",
+    "url": "/blueprints/weapons/wc/crossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "hand-crossbow",
+    "name": "Hand Crossbow",
+    "url": "/blueprints/weapons/wc/handcrossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "light-crossbow",
+    "name": "Light Crossbow",
+    "url": "/blueprints/weapons/wc/lightcrossbow",
+    "categoryId": "weapons",
+    "subCategoryId": "crossbow"
+  },
+  {
+    "id": "platinum-grenadier",
+    "name": "Platinum Grenadier",
+    "url": "/blueprints/weapons/wg/platinumgun",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "particle-beam rifle",
+    "name": "Particle Beam Rifle",
+    "url": "/blueprints/weapons/wg/mechagun",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "sonic-trumpeteer",
+    "name": "Sonic Trumpeteer",
+    "url": "/blueprints/weapons/wg/musicgun",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "vainglory",
+    "name": "Vainglory",
+    "url": "/blueprints/weapons/wg/t13gun",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "gift-wrap rifle",
+    "name": "Gift Wrap Rifle",
+    "url": "/blueprints/weapons/wg/christmasgun",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "hotshot-carbine",
+    "name": "Hotshot Carbine",
+    "url": "/blueprints/weapons/wg/westerngun",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "blackbeard's-cannon",
+    "name": "Blackbeard's Cannon",
+    "url": "/blueprints/weapons/wg/t12gun",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "dogbone-blaster",
+    "name": "Dogbone Blaster",
+    "url": "/blueprints/weapons/wg/doggun",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "opulent-pistol",
+    "name": "Opulent Pistol",
+    "url": "/blueprints/weapons/wg/goldgun",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "omega-disintegrator",
+    "name": "Omega Disintegrator",
+    "url": "/blueprints/weapons/wg/disintegratorgun",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "oxen-impact",
+    "name": "Oxen Impact",
+    "url": "/blueprints/weapons/wg/lunargun",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "the-messenger",
+    "name": "The Messenger",
+    "url": "/blueprints/weapons/wg/hermes",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "handcask-'65",
+    "name": "Handcask '65",
+    "url": "/blueprints/weapons/wg/barrelgun",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "dragonator",
+    "name": "Dragonator",
+    "url": "/blueprints/weapons/wg/dragonator",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "prototype-gatling",
+    "name": "Prototype Gatling",
+    "url": "/blueprints/weapons/wg/gatling",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "kenora-mk. iv",
+    "name": "Kenora Mk. IV",
+    "url": "/blueprints/weapons/wg/kenora",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "pellet-popper",
+    "name": "Pellet Popper",
+    "url": "/blueprints/weapons/wg/arcadegun",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "banana-gun",
+    "name": "Banana Gun",
+    "url": "/blueprints/weapons/wg/fruitgun",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "boomstick",
+    "name": "Boomstick",
+    "url": "/blueprints/weapons/wg/doublebarrel",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "blunderbuss",
+    "name": "Blunderbuss",
+    "url": "/blueprints/weapons/wg/blunderbuss",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "snowball-launcher",
+    "name": "Snowball Launcher",
+    "url": "/blueprints/weapons/wg/wintergun",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "long-rifle",
+    "name": "Long Rifle",
+    "url": "/blueprints/weapons/wg/huntingrifle",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "smoothbore",
+    "name": "Smoothbore",
+    "url": "/blueprints/weapons/wg/flintlockrifle",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "handgun",
+    "name": "Handgun",
+    "url": "/blueprints/weapons/wg/pistol",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "pellet-gun",
+    "name": "Pellet Gun",
+    "url": "/blueprints/weapons/wg/flintlockpistol",
+    "categoryId": "weapons",
+    "subCategoryId": "gun"
+  },
+  {
+    "id": "electro-keytar",
+    "name": "Electro-Keytar",
+    "url": "/blueprints/weapons/wi/keytar",
+    "categoryId": "weapons",
+    "subCategoryId": "instrument"
+  },
+  {
+    "id": "otherwordly-chime",
+    "name": "Otherwordly Chime",
+    "url": "/blueprints/weapons/wi/t13instrument",
+    "categoryId": "weapons",
+    "subCategoryId": "instrument"
+  },
+  {
+    "id": "molten-rockstar",
+    "name": "Molten Rockstar",
+    "url": "/blueprints/weapons/wi/t12instrument",
+    "categoryId": "weapons",
+    "subCategoryId": "instrument"
+  },
+  {
+    "id": "lyre-of desire",
+    "name": "Lyre of Desire",
+    "url": "/blueprints/weapons/wi/t11instrument",
+    "categoryId": "weapons",
+    "subCategoryId": "instrument"
+  },
+  {
+    "id": "percussive-clam",
+    "name": "Percussive Clam",
+    "url": "/blueprints/weapons/wi/t10instrument",
+    "categoryId": "weapons",
+    "subCategoryId": "instrument"
+  },
+  {
+    "id": "portable-gong",
+    "name": "Portable Gong",
+    "url": "/blueprints/weapons/wi/t9instrument",
+    "categoryId": "weapons",
+    "subCategoryId": "instrument"
+  },
+  {
+    "id": "snake-charmer",
+    "name": "Snake Charmer",
+    "url": "/blueprints/weapons/wi/t8instrument",
+    "categoryId": "weapons",
+    "subCategoryId": "instrument"
+  },
+  {
+    "id": "party-drums",
+    "name": "Party Drums",
+    "url": "/blueprints/weapons/wi/t7instrument",
+    "categoryId": "weapons",
+    "subCategoryId": "instrument"
+  },
+  {
+    "id": "melancholyr",
+    "name": "Melancholyr",
+    "url": "/blueprints/weapons/wi/t6instrument",
+    "categoryId": "weapons",
+    "subCategoryId": "instrument"
+  },
+  {
+    "id": "woodland-lute",
+    "name": "Woodland Lute",
+    "url": "/blueprints/weapons/wi/t5instrument",
+    "categoryId": "weapons",
+    "subCategoryId": "instrument"
+  },
+  {
+    "id": "hunting-horn",
+    "name": "Hunting Horn",
+    "url": "/blueprints/weapons/wi/t4instrument",
+    "categoryId": "weapons",
+    "subCategoryId": "instrument"
+  },
+  {
+    "id": "triangle",
+    "name": "Triangle",
+    "url": "/blueprints/weapons/wi/t3instrument",
+    "categoryId": "weapons",
+    "subCategoryId": "instrument"
+  },
+  {
+    "id": "leathermaster's-apron",
+    "name": "Leathermaster's Apron",
+    "url": "/blueprints/armor/am/tamasmediumarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "wayfinder's-outfit",
+    "name": "Wayfinder's Outfit",
+    "url": "/blueprints/armor/am/boarmediumarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "garbs-of morpheus",
+    "name": "Garbs of Morpheus",
+    "url": "/blueprints/armor/am/dreammediumarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "wildhunt-leathers",
+    "name": "Wildhunt Leathers",
+    "url": "/blueprints/armor/am/t13mediumarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "desperado-outfit",
+    "name": "Desperado Outfit",
+    "url": "/blueprints/armor/am/westernarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "stylish-poncho",
+    "name": "Stylish Poncho",
+    "url": "/blueprints/armor/am/cincomedarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "shroud-of the lost",
+    "name": "Shroud of the Lost",
+    "url": "/blueprints/armor/am/volcanomedarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "dawn-thief uniform",
+    "name": "Dawn Thief Uniform",
+    "url": "/blueprints/armor/am/t12mediumarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "cat-burglar outfit",
+    "name": "Cat Burglar Outfit",
+    "url": "/blueprints/armor/am/catarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "barkback's-armor",
+    "name": "Barkback's Armor",
+    "url": "/blueprints/armor/am/troblinarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "opulent-armor",
+    "name": "Opulent Armor",
+    "url": "/blueprints/armor/am/goldroguearmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "everdusk-lord attire",
+    "name": "Everdusk Lord Attire",
+    "url": "/blueprints/armor/am/jackalopearmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "cloudwalker-armor",
+    "name": "Cloudwalker Armor",
+    "url": "/blueprints/armor/am/lunarmedarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "swan's-garment",
+    "name": "Swan's Garment",
+    "url": "/blueprints/armor/am/siaarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "corsair-mantle",
+    "name": "Corsair Mantle",
+    "url": "/blueprints/armor/am/captainarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "smith-attire",
+    "name": "Smith Attire",
+    "url": "/blueprints/armor/am/smithapron",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "drakeskin-armor",
+    "name": "Drakeskin Armor",
+    "url": "/blueprints/armor/am/dragonarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "jester-outfit",
+    "name": "Jester Outfit",
+    "url": "/blueprints/armor/am/jestermediumarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "sokka's-outfit",
+    "name": "Sokka's Outfit",
+    "url": "/blueprints/armor/am/atlab_armor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "windrunner-armor",
+    "name": "Windrunner Armor",
+    "url": "/blueprints/armor/am/windrunnerarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "golden-fleece",
+    "name": "Golden Fleece",
+    "url": "/blueprints/armor/am/greekmediumarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "nightwing-mantle",
+    "name": "Nightwing Mantle",
+    "url": "/blueprints/armor/am/batarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "ninja-garb",
+    "name": "Ninja Garb",
+    "url": "/blueprints/armor/am/ninjagarb",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "pumpkin-armor",
+    "name": "Pumpkin Armor",
+    "url": "/blueprints/armor/am/pumpkinarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "glade-guard armor",
+    "name": "Glade Guard Armor",
+    "url": "/blueprints/armor/am/desertmediumarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "savage-garb",
+    "name": "Savage Garb",
+    "url": "/blueprints/armor/am/savagearmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "sky-pirate outfit",
+    "name": "Sky Pirate Outfit",
+    "url": "/blueprints/armor/am/airshiparmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "mundra's-tabard",
+    "name": "Mundra's Tabard",
+    "url": "/blueprints/armor/am/mundraarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "hide-armor",
+    "name": "Hide Armor",
+    "url": "/blueprints/armor/am/hide",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "blizzard-armor",
+    "name": "Blizzard Armor",
+    "url": "/blueprints/armor/am/winterarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "studded-armor",
+    "name": "Studded Armor",
+    "url": "/blueprints/armor/am/studded",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "doublet",
+    "name": "Doublet",
+    "url": "/blueprints/armor/am/doublet",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "gambeson",
+    "name": "Gambeson",
+    "url": "/blueprints/armor/am/padded",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "leather-armor",
+    "name": "Leather Armor",
+    "url": "/blueprints/armor/am/leatherarmor",
+    "categoryId": "armor",
+    "subCategoryId": "light-armor"
+  },
+  {
+    "id": "gothita-frock coat",
+    "name": "Gothita Frock Coat",
+    "url": "/blueprints/armor/al/gothitarobe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "business-suit",
+    "name": "Business Suit",
+    "url": "/blueprints/armor/al/officerobe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "voidminster-habit",
+    "name": "Voidminster Habit",
+    "url": "/blueprints/armor/al/t13robe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "ice-queen's silks",
+    "name": "Ice Queen's Silks",
+    "url": "/blueprints/armor/al/unicornrobe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "garb-of the primordial",
+    "name": "Garb of the Primordial",
+    "url": "/blueprints/armor/al/volcanorobe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "opulent-vestment",
+    "name": "Opulent Vestment",
+    "url": "/blueprints/armor/al/goldrobe2",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "soulbinder-regalia",
+    "name": "Soulbinder Regalia",
+    "url": "/blueprints/armor/al/hemmadonrobe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "exarch-robes",
+    "name": "Exarch Robes",
+    "url": "/blueprints/armor/al/t12robe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "tiger-emperor's robe",
+    "name": "Tiger Emperor's Robe",
+    "url": "/blueprints/armor/al/lunarrobe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "moonlight-kimono",
+    "name": "Moonlight Kimono",
+    "url": "/blueprints/armor/al/moonrobes",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "djinn-robes",
+    "name": "Djinn Robes",
+    "url": "/blueprints/armor/al/djinnrobes",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "republic-garments",
+    "name": "Republic Garments",
+    "url": "/blueprints/armor/al/indiadayarmor",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "archmage-raiments",
+    "name": "Archmage Raiments",
+    "url": "/blueprints/armor/al/majesticraiments",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "valet-uniform",
+    "name": "Valet Uniform",
+    "url": "/blueprints/armor/al/wonderlandrobe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "desert-threads",
+    "name": "Desert Threads",
+    "url": "/blueprints/armor/al/arabiantunic",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "ostara-vest",
+    "name": "Ostara Vest",
+    "url": "/blueprints/armor/al/easterarmor2020",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "astravestimenta",
+    "name": "Astravestimenta",
+    "url": "/blueprints/armor/al/astravestimenta",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "blood-monarch outfit",
+    "name": "Blood Monarch Outfit",
+    "url": "/blueprints/armor/al/vampirerobe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "luxurious-attire",
+    "name": "Luxurious Attire",
+    "url": "/blueprints/armor/al/goldvestments",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "cupid-robes",
+    "name": "Cupid Robes",
+    "url": "/blueprints/armor/al/valentinerobe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "shaman-vestment",
+    "name": "Shaman Vestment",
+    "url": "/blueprints/armor/al/shamanvestment",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "void-enrobed",
+    "name": "Void Enrobed",
+    "url": "/blueprints/armor/al/voidrobe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "aang's-robe",
+    "name": "Aang's Robe",
+    "url": "/blueprints/armor/al/atlab_robe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "midnight-apparel",
+    "name": "Midnight Apparel",
+    "url": "/blueprints/armor/al/midnightapparel",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "wizard-attire",
+    "name": "Wizard Attire",
+    "url": "/blueprints/armor/al/wizardrobe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "vestal-raiments",
+    "name": "Vestal Raiments",
+    "url": "/blueprints/armor/al/desertlightarmor",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "witch's-outfit",
+    "name": "Witch's Outfit",
+    "url": "/blueprints/armor/al/witchrobe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "tailor-mantle",
+    "name": "Tailor Mantle",
+    "url": "/blueprints/armor/al/tailorarmor",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "explorer's-outfit",
+    "name": "Explorer's Outfit",
+    "url": "/blueprints/armor/al/exploreroutfit",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "scholar's-tunic",
+    "name": "Scholar's Tunic",
+    "url": "/blueprints/armor/al/scholartunic",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "disciple's-robe",
+    "name": "Disciple's Robe",
+    "url": "/blueprints/armor/al/disciplerobe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "druid's-robe",
+    "name": "Druid's Robe",
+    "url": "/blueprints/armor/al/druidic",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "black-robe",
+    "name": "Black Robe",
+    "url": "/blueprints/armor/al/robe",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "shirt",
+    "name": "Shirt",
+    "url": "/blueprints/armor/al/tunic",
+    "categoryId": "armor",
+    "subCategoryId": "clothes"
+  },
+  {
+    "id": "creature's-chitin",
+    "name": "Creature's Chitin",
+    "url": "/blueprints/armor/hh/voidhelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "platinum-helm",
+    "name": "Platinum Helm",
+    "url": "/blueprints/armor/hh/platinumhelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "cm-73-visor",
+    "name": "CM-73 Visor",
+    "url": "/blueprints/armor/hh/mechahelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "taishōgun-kabuto",
+    "name": "Taishōgun Kabuto",
+    "url": "/blueprints/armor/hh/blossomhelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "balefire-gaze",
+    "name": "Balefire Gaze",
+    "url": "/blueprints/armor/hh/t13helm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "thorn-baron helm",
+    "name": "Thorn Baron Helm",
+    "url": "/blueprints/armor/hh/pumpkinhelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "onyx-king helm",
+    "name": "Onyx King Helm",
+    "url": "/blueprints/armor/hh/chesshelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "vermilion-guard helm",
+    "name": "Vermilion Guard Helm",
+    "url": "/blueprints/armor/hh/t12helm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "cupid's-heaume",
+    "name": "Cupid's Heaume",
+    "url": "/blueprints/armor/hh/valentinehelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "canid-helmet",
+    "name": "Canid Helmet",
+    "url": "/blueprints/armor/hh/doghelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "celesteel-heaume",
+    "name": "Celesteel Heaume",
+    "url": "/blueprints/armor/hh/celestialhelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "opulent-heaume",
+    "name": "Opulent Heaume",
+    "url": "/blueprints/armor/hh/goldhelmet",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "gobble-lord helm",
+    "name": "Gobble Lord Helm",
+    "url": "/blueprints/armor/hh/thanksgivinghelmet",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "juggernaut-furnace",
+    "name": "Juggernaut Furnace",
+    "url": "/blueprints/armor/hh/juggernauthelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "centurion-helmet",
+    "name": "Centurion Helmet",
+    "url": "/blueprints/armor/hh/centurionhelmet",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "berserker-helmet",
+    "name": "Berserker Helmet",
+    "url": "/blueprints/armor/hh/berserkerhelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "dragon-skull",
+    "name": "Dragon Skull",
+    "url": "/blueprints/armor/hh/lunarhelm2",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "warlord-helmet",
+    "name": "Warlord Helmet",
+    "url": "/blueprints/armor/hh/lunarhelmet",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "crusader-helmet",
+    "name": "Crusader Helmet",
+    "url": "/blueprints/armor/hh/ruinshelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "general-heaume",
+    "name": "General Heaume",
+    "url": "/blueprints/armor/hh/generalheaume",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "titan-helm",
+    "name": "Titan Helm",
+    "url": "/blueprints/armor/hh/shoprhelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "sandcastle-protector",
+    "name": "Sandcastle Protector",
+    "url": "/blueprints/armor/hh/beachhelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "gladiator-helm",
+    "name": "Gladiator Helm",
+    "url": "/blueprints/armor/hh/gladiatorhelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "samurai-kabuto",
+    "name": "Samurai Kabuto",
+    "url": "/blueprints/armor/hh/kabuto",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "crown-of tyranny",
+    "name": "Crown of Tyranny",
+    "url": "/blueprints/armor/hh/darkknighthelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "fire-nation helm",
+    "name": "Fire Nation Helm",
+    "url": "/blueprints/armor/hh/atlab_firehelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "kodiak-helmet",
+    "name": "Kodiak Helmet",
+    "url": "/blueprints/armor/hh/couplehelmet",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "paladin-helm",
+    "name": "Paladin Helm",
+    "url": "/blueprints/armor/hh/paladinhelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "rex-chomper",
+    "name": "Rex Chomper",
+    "url": "/blueprints/armor/hh/dinohelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "eagle-helm",
+    "name": "Eagle Helm",
+    "url": "/blueprints/armor/hh/eaglecowl",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "brinewater-helm",
+    "name": "Brinewater Helm",
+    "url": "/blueprints/armor/hh/swamphelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "knight-heaume",
+    "name": "Knight Heaume",
+    "url": "/blueprints/armor/hh/knighthelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "raider-helm",
+    "name": "Raider Helm",
+    "url": "/blueprints/armor/hh/vikinghelm",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "horned-helm",
+    "name": "Horned Helm",
+    "url": "/blueprints/armor/hh/horned",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "warrior-helmet",
+    "name": "Warrior Helmet",
+    "url": "/blueprints/armor/hh/helmet",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "sturdy-cap",
+    "name": "Sturdy Cap",
+    "url": "/blueprints/armor/hh/ironcap",
+    "categoryId": "armor",
+    "subCategoryId": "helmet"
+  },
+  {
+    "id": "hazmat-mask",
+    "name": "Hazmat Mask",
+    "url": "/blueprints/armor/hm/cyberroguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "platinum-beret",
+    "name": "Platinum Beret",
+    "url": "/blueprints/armor/hm/platinumroguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "wereboar's-hood",
+    "name": "Wereboar's Hood",
+    "url": "/blueprints/armor/hm/boarroguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "hooded-iggaak",
+    "name": "Hooded Iggaak",
+    "url": "/blueprints/armor/hm/inuitroguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "wildhunt-skull",
+    "name": "Wildhunt Skull",
+    "url": "/blueprints/armor/hm/t13roguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "kitsune-spirit mask",
+    "name": "Kitsune Spirit Mask",
+    "url": "/blueprints/armor/hm/fallroguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "dragonseeker-goggles",
+    "name": "Dragonseeker Goggles",
+    "url": "/blueprints/armor/hm/airshiproguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "bunbun-masquerade",
+    "name": "Bunbun Masquerade",
+    "url": "/blueprints/armor/hm/easterroguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "dawn-thief cowl",
+    "name": "Dawn Thief Cowl",
+    "url": "/blueprints/armor/hm/t12roguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "opulent-sallet",
+    "name": "Opulent Sallet",
+    "url": "/blueprints/armor/hm/goldroguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "cat-burglar hood",
+    "name": "Cat Burglar Hood",
+    "url": "/blueprints/armor/hm/catroguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "rogue-sombrero",
+    "name": "Rogue Sombrero",
+    "url": "/blueprints/armor/hm/cincoroguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "abyssal-hood",
+    "name": "Abyssal Hood",
+    "url": "/blueprints/armor/hm/peakroguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "everdusk-cowl",
+    "name": "Everdusk Cowl",
+    "url": "/blueprints/armor/hm/jackalopehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "republic-coiffe",
+    "name": "Republic Coiffe",
+    "url": "/blueprints/armor/hm/indiadayhat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "corsair-tricorn",
+    "name": "Corsair Tricorn",
+    "url": "/blueprints/armor/hm/captainhat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "grand-tyrolean",
+    "name": "Grand Tyrolean",
+    "url": "/blueprints/armor/hm/oktoberhat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "storm-dragon mask",
+    "name": "Storm Dragon Mask",
+    "url": "/blueprints/armor/hm/castleroguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "drakeskin-mask",
+    "name": "Drakeskin Mask",
+    "url": "/blueprints/armor/hm/dragonhat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "musketeer-hat",
+    "name": "Musketeer Hat",
+    "url": "/blueprints/armor/hm/musketeerroguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "blue-spirit mask",
+    "name": "Blue Spirit Mask",
+    "url": "/blueprints/armor/hm/atlab_spiritmask",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "windrunner-hat",
+    "name": "Windrunner Hat",
+    "url": "/blueprints/armor/hm/windrunnerhat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "harvester's-hood",
+    "name": "Harvester's Hood",
+    "url": "/blueprints/armor/hm/farmerhood",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "nomad-veil",
+    "name": "Nomad Veil",
+    "url": "/blueprints/armor/hm/pyramidroguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "night-cowl",
+    "name": "Night Cowl",
+    "url": "/blueprints/armor/hm/nightcowl",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "lovely-hat",
+    "name": "Lovely Hat",
+    "url": "/blueprints/armor/hm/valentinehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "pirate-hat",
+    "name": "Pirate Hat",
+    "url": "/blueprints/armor/hm/piratehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "pharaoh's-nemes",
+    "name": "Pharaoh's Nemes",
+    "url": "/blueprints/armor/hm/anubisroguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "santa's-elf hat",
+    "name": "Santa's Elf Hat",
+    "url": "/blueprints/armor/hm/christmasroguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "silk-hood",
+    "name": "Silk Hood",
+    "url": "/blueprints/armor/hm/hood",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "tricorn",
+    "name": "Tricorn",
+    "url": "/blueprints/armor/hm/tricorn",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "feathered-hat",
+    "name": "Feathered Hat",
+    "url": "/blueprints/armor/hm/featheredhat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "brimmed-hat",
+    "name": "Brimmed Hat",
+    "url": "/blueprints/armor/hm/hat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "canopy-cap",
+    "name": "Canopy Cap",
+    "url": "/blueprints/armor/hm/forestroguehat",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "leather-cap",
+    "name": "Leather Cap",
+    "url": "/blueprints/armor/hm/leathercap",
+    "categoryId": "armor",
+    "subCategoryId": "rogue-hat"
+  },
+  {
+    "id": "magician's-hat",
+    "name": "Magician's Hat",
+    "url": "/blueprints/armor/hl/magicmagehat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "teeny-top hat",
+    "name": "Teeny Top Hat",
+    "url": "/blueprints/armor/hl/gothitamagehat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "tiara-of tides",
+    "name": "Tiara of Tides",
+    "url": "/blueprints/armor/hl/beachmagehat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "elysium-halo",
+    "name": "Elysium Halo",
+    "url": "/blueprints/armor/hl/riftmagehat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "voidminster-hat",
+    "name": "Voidminster Hat",
+    "url": "/blueprints/armor/hl/t13magehat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "empress-hairpins",
+    "name": "Empress Hairpins",
+    "url": "/blueprints/armor/hl/lunarmagehat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "phoenix-crest",
+    "name": "Phoenix Crest",
+    "url": "/blueprints/armor/hl/volcanomagehat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "opulent-headdress",
+    "name": "Opulent Headdress",
+    "url": "/blueprints/armor/hl/goldhat2",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "sakura-eboshi",
+    "name": "Sakura Eboshi",
+    "url": "/blueprints/armor/hl/blossommagehat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "exarch-mitre",
+    "name": "Exarch Mitre",
+    "url": "/blueprints/armor/hl/t12magehat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "ice-queen's summer hat",
+    "name": "Ice Queen's Summer Hat",
+    "url": "/blueprints/armor/hl/snowmagehat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "elegant-top hat",
+    "name": "Elegant Top Hat",
+    "url": "/blueprints/armor/hl/victorianmagehat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "djinn-veil",
+    "name": "Djinn Veil",
+    "url": "/blueprints/armor/hl/djinnhat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "night-crown",
+    "name": "Night Crown",
+    "url": "/blueprints/armor/hl/bathat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "opal-diadem",
+    "name": "Opal Diadem",
+    "url": "/blueprints/armor/hl/tiara",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "spellward-hat",
+    "name": "Spellward Hat",
+    "url": "/blueprints/armor/hl/schoolhat2020",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "raven-mask",
+    "name": "Raven Mask",
+    "url": "/blueprints/armor/hl/plaguemask",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "astral-hat",
+    "name": "Astral Hat",
+    "url": "/blueprints/armor/hl/astralhat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "luxurious-headdress",
+    "name": "Luxurious Headdress",
+    "url": "/blueprints/armor/hl/goldhat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "shaman-hat",
+    "name": "Shaman Hat",
+    "url": "/blueprints/armor/hl/shamanhat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "ivory-queen crown",
+    "name": "Ivory Queen Crown",
+    "url": "/blueprints/armor/hl/chessmagehat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "summoner-hat",
+    "name": "Summoner Hat",
+    "url": "/blueprints/armor/hl/summonerhat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "tactician-hat",
+    "name": "Tactician Hat",
+    "url": "/blueprints/armor/hl/midnighthat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "owl-cowl",
+    "name": "Owl Cowl",
+    "url": "/blueprints/armor/hl/liluhat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "waterproof-lilycap",
+    "name": "Waterproof Lilycap",
+    "url": "/blueprints/armor/hl/frogmagehat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "witch-hat",
+    "name": "Witch Hat",
+    "url": "/blueprints/armor/hl/witchhat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "ostara-hat",
+    "name": "Ostara Hat",
+    "url": "/blueprints/armor/hl/bunnyhat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "hat-of the four winds",
+    "name": "Hat of the Four Winds",
+    "url": "/blueprints/armor/hl/swamphat",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "wizard-hat",
+    "name": "Wizard Hat",
+    "url": "/blueprints/armor/hl/wizardcone",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "bronze-circlet",
+    "name": "Bronze Circlet",
+    "url": "/blueprints/armor/hl/circlet",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "apprentice-tiara",
+    "name": "Apprentice Tiara",
+    "url": "/blueprints/armor/hl/startertiara",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "druid-laurels",
+    "name": "Druid Laurels",
+    "url": "/blueprints/armor/hl/laurels",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "black-cowl",
+    "name": "Black Cowl",
+    "url": "/blueprints/armor/hl/blackcowl",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "stitched-cone",
+    "name": "Stitched Cone",
+    "url": "/blueprints/armor/hl/leathercone",
+    "categoryId": "armor",
+    "subCategoryId": "magician-hat"
+  },
+  {
+    "id": "dragonfang-fists",
+    "name": "Dragonfang Fists",
+    "url": "/blueprints/armor/gh/lunargauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "platinum-gauntlets",
+    "name": "Platinum Gauntlets",
+    "url": "/blueprints/armor/gh/platinumgauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "power-gauntlet",
+    "name": "Power Gauntlet",
+    "url": "/blueprints/armor/gh/arcadegauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "balefire-gauntlets",
+    "name": "Balefire Gauntlets",
+    "url": "/blueprints/armor/gh/t13gauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "tyrant-fists",
+    "name": "Tyrant Fists",
+    "url": "/blueprints/armor/gh/darkknightgauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "opulent-dracofists",
+    "name": "Opulent Dracofists",
+    "url": "/blueprints/armor/gh/goldgauntlets2",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "goon's-facesmackers",
+    "name": "Goon's Facesmackers",
+    "url": "/blueprints/armor/gh/mushroomgauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "vermilion-guard might",
+    "name": "Vermilion Guard Might",
+    "url": "/blueprints/armor/gh/t12gauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "huscarl-gauntlets",
+    "name": "Huscarl Gauntlets",
+    "url": "/blueprints/armor/gh/aegirgauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "vanguard-gauntlets",
+    "name": "Vanguard Gauntlets",
+    "url": "/blueprints/armor/gh/fallgauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "gaia's-hold",
+    "name": "Gaia's Hold",
+    "url": "/blueprints/armor/gh/naturegauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "celesteel-gauntlets",
+    "name": "Celesteel Gauntlets",
+    "url": "/blueprints/armor/gh/celestialgauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "winter's-touch",
+    "name": "Winter's Touch",
+    "url": "/blueprints/armor/gh/wintergauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "juggernaut-grip",
+    "name": "Juggernaut Grip",
+    "url": "/blueprints/armor/gh/juggernautgauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "luxurious-gauntlets",
+    "name": "Luxurious Gauntlets",
+    "url": "/blueprints/armor/gh/goldgauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "berserker-gauntlets",
+    "name": "Berserker Gauntlets",
+    "url": "/blueprints/armor/gh/berserkergauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "general-gauntlets",
+    "name": "General Gauntlets",
+    "url": "/blueprints/armor/gh/generalgauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "fruity-gauntlets",
+    "name": "Fruity Gauntlets",
+    "url": "/blueprints/armor/gh/fruitgauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "republic-gauntlets",
+    "name": "Republic Gauntlets",
+    "url": "/blueprints/armor/gh/indiadaygauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "samurai-kote",
+    "name": "Samurai Kote",
+    "url": "/blueprints/armor/gh/kote",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "landsknecht-gauntlets",
+    "name": "Landsknecht Gauntlets",
+    "url": "/blueprints/armor/gh/oktoberfestgauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "sungrasp-gauntlets",
+    "name": "Sungrasp Gauntlets",
+    "url": "/blueprints/armor/gh/desertgauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "paladin-gauntlets",
+    "name": "Paladin Gauntlets",
+    "url": "/blueprints/armor/gh/paladingauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "hands-of the fifth",
+    "name": "Hands of the Fifth",
+    "url": "/blueprints/armor/gh/cincogauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "santa's-guard gauntlets",
+    "name": "Santa's Guard Gauntlets",
+    "url": "/blueprints/armor/gh/christmasgauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "knight-gauntlets",
+    "name": "Knight Gauntlets",
+    "url": "/blueprints/armor/gh/knightgauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "cm-73-manipulators",
+    "name": "CM-73 Manipulators",
+    "url": "/blueprints/armor/gh/mechagauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "pumpkin-gauntlets",
+    "name": "Pumpkin Gauntlets",
+    "url": "/blueprints/armor/gh/pumpkingauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "demi-gauntlets",
+    "name": "Demi Gauntlets",
+    "url": "/blueprints/armor/gh/demigauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "warrior-gauntlets",
+    "name": "Warrior Gauntlets",
+    "url": "/blueprints/armor/gh/gauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "plated-gauntlets",
+    "name": "Plated Gauntlets",
+    "url": "/blueprints/armor/gh/lightgauntlets",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "iron-armguards",
+    "name": "Iron Armguards",
+    "url": "/blueprints/armor/gh/ironbracers",
+    "categoryId": "armor",
+    "subCategoryId": "gauntlets"
+  },
+  {
+    "id": "camper's-compass",
+    "name": "Camper's Compass",
+    "url": "/blueprints/armor/gl/campinggloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "wildhunt-gloves",
+    "name": "Wildhunt Gloves",
+    "url": "/blueprints/armor/gl/t13gloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "gants-d'artagnan",
+    "name": "Gants d'Artagnan",
+    "url": "/blueprints/armor/gl/musketeergloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "gloves-of rhythm",
+    "name": "Gloves of Rhythm",
+    "url": "/blueprints/armor/gl/cincogloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "swindler's-fingers",
+    "name": "Swindler's Fingers",
+    "url": "/blueprints/armor/gl/volcanogloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "dawn-thief's touch",
+    "name": "Dawn Thief's Touch",
+    "url": "/blueprints/armor/gl/t12gloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "nightwing-vambraces",
+    "name": "Nightwing Vambraces",
+    "url": "/blueprints/armor/gl/halloweengloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "raptor-wings",
+    "name": "Raptor Wings",
+    "url": "/blueprints/armor/gl/birdgloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "everdusk-gloves",
+    "name": "Everdusk Gloves",
+    "url": "/blueprints/armor/gl/jackalopegloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "opulent-grasp",
+    "name": "Opulent Grasp",
+    "url": "/blueprints/armor/gl/goldgloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "fortunate-gloves",
+    "name": "Fortunate Gloves",
+    "url": "/blueprints/armor/gl/vipgloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "corsair-gloves",
+    "name": "Corsair Gloves",
+    "url": "/blueprints/armor/gl/captaingloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "mountain-man mitts",
+    "name": "Mountain Man Mitts",
+    "url": "/blueprints/armor/gl/oktobergloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "drakeskin-gloves",
+    "name": "Drakeskin Gloves",
+    "url": "/blueprints/armor/gl/dragongloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "hands-of sleight",
+    "name": "Hands of Sleight",
+    "url": "/blueprints/armor/gl/magicgloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "sakura-cuffs",
+    "name": "Sakura Cuffs",
+    "url": "/blueprints/armor/gl/blossomgloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "windrunner-gloves",
+    "name": "Windrunner Gloves",
+    "url": "/blueprints/armor/gl/windrunnergloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "gothita-glovelettes",
+    "name": "Gothita Glovelettes",
+    "url": "/blueprints/armor/gl/gothitagloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "cat-burglar claws",
+    "name": "Cat Burglar Claws",
+    "url": "/blueprints/armor/gl/catgloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "ninja-gloves",
+    "name": "Ninja Gloves",
+    "url": "/blueprints/armor/gl/ninjagloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "black-wyrm claws",
+    "name": "Black Wyrm Claws",
+    "url": "/blueprints/armor/gl/desertgloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "savage-claws",
+    "name": "Savage Claws",
+    "url": "/blueprints/armor/gl/savagegloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "ostara-gloves",
+    "name": "Ostara Gloves",
+    "url": "/blueprints/armor/gl/eastergloves2020",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "elven-vambraces",
+    "name": "Elven Vambraces",
+    "url": "/blueprints/armor/gl/vambraces",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "regal-bangles",
+    "name": "Regal Bangles",
+    "url": "/blueprints/armor/gl/lunargloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "studded-gloves",
+    "name": "Studded Gloves",
+    "url": "/blueprints/armor/gl/studdedleathergloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "patchleather-bracers",
+    "name": "Patchleather Bracers",
+    "url": "/blueprints/armor/gl/patchworkgloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "swift-mitts",
+    "name": "Swift Mitts",
+    "url": "/blueprints/armor/gl/grottogloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "thief's-gloves",
+    "name": "Thief's Gloves",
+    "url": "/blueprints/armor/gl/thiefgloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "bracers",
+    "name": "Bracers",
+    "url": "/blueprints/armor/gl/bracers",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "leather-gloves",
+    "name": "Leather Gloves",
+    "url": "/blueprints/armor/gl/leathergloves",
+    "categoryId": "armor",
+    "subCategoryId": "gloves"
+  },
+  {
+    "id": "crystal-sollerets",
+    "name": "Crystal Sollerets",
+    "url": "/blueprints/armor/bh/newyearboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "titan-boots",
+    "name": "Titan Boots",
+    "url": "/blueprints/armor/bh/shoprboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "balefire-greaves",
+    "name": "Balefire Greaves",
+    "url": "/blueprints/armor/bh/t13boots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "rex-stompers",
+    "name": "Rex Stompers",
+    "url": "/blueprints/armor/bh/dinoboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "opulent-greaves",
+    "name": "Opulent Greaves",
+    "url": "/blueprints/armor/bh/goldboots2",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "fruity-booties",
+    "name": "Fruity Booties",
+    "url": "/blueprints/armor/bh/fruitboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "boots-of zeal",
+    "name": "Boots of Zeal",
+    "url": "/blueprints/armor/bh/volcanoboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "vermilion-guard greaves",
+    "name": "Vermilion Guard Greaves",
+    "url": "/blueprints/armor/bh/t12boots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "santa's-guard boots",
+    "name": "Santa's Guard Boots",
+    "url": "/blueprints/armor/bh/christmasboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "star-spangled-greaves",
+    "name": "Star-Spangled Greaves",
+    "url": "/blueprints/armor/bh/freedomboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "celesteel-boots",
+    "name": "Celesteel Boots",
+    "url": "/blueprints/armor/bh/celestialboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "greaves-of the fifth",
+    "name": "Greaves of the Fifth",
+    "url": "/blueprints/armor/bh/cincoboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "bunbun-booties",
+    "name": "Bunbun Booties",
+    "url": "/blueprints/armor/bh/bunnyboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "juggernaut-greaves",
+    "name": "Juggernaut Greaves",
+    "url": "/blueprints/armor/bh/juggernautboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "vanguard-greaves",
+    "name": "Vanguard Greaves",
+    "url": "/blueprints/armor/bh/fallboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "luxurious-boots",
+    "name": "Luxurious Boots",
+    "url": "/blueprints/armor/bh/goldboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "berserker-stompers",
+    "name": "Berserker Stompers",
+    "url": "/blueprints/armor/bh/berserkerboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "cm-73-jetboots",
+    "name": "CM-73 Jetboots",
+    "url": "/blueprints/armor/bh/mechaboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "general-greaves",
+    "name": "General Greaves",
+    "url": "/blueprints/armor/bh/generalgreaves",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "topaz-greaves",
+    "name": "Topaz Greaves",
+    "url": "/blueprints/armor/bh/bfheavyboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "samurai-haidate",
+    "name": "Samurai Haidate",
+    "url": "/blueprints/armor/bh/haidate",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "ashkickers",
+    "name": "Ashkickers",
+    "url": "/blueprints/armor/bh/firecrabboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "canid-paws",
+    "name": "Canid Paws",
+    "url": "/blueprints/armor/bh/dogboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "paladin-boots",
+    "name": "Paladin Boots",
+    "url": "/blueprints/armor/bh/paladinboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "warlord-boots",
+    "name": "Warlord Boots",
+    "url": "/blueprints/armor/bh/lunargreaves",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "cindersole",
+    "name": "Cindersole",
+    "url": "/blueprints/armor/bh/swampboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "knight-sollerets",
+    "name": "Knight Sollerets",
+    "url": "/blueprints/armor/bh/knightboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "plated-squeakers",
+    "name": "Plated Squeakers",
+    "url": "/blueprints/armor/bh/circusboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "reinforced-greaves",
+    "name": "Reinforced Greaves",
+    "url": "/blueprints/armor/bh/heavyboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "hero's-boots",
+    "name": "Hero's Boots",
+    "url": "/blueprints/armor/bh/heroboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "iron-greaves",
+    "name": "Iron Greaves",
+    "url": "/blueprints/armor/bh/grieveboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "long-boots",
+    "name": "Long Boots",
+    "url": "/blueprints/armor/bh/longboots",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "shin-guards",
+    "name": "Shin Guards",
+    "url": "/blueprints/armor/bh/shinguards",
+    "categoryId": "armor",
+    "subCategoryId": "heavy-footwear"
+  },
+  {
+    "id": "voidwalkers",
+    "name": "Voidwalkers",
+    "url": "/blueprints/armor/bl/voidshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "hermes-sandals",
+    "name": "Hermes Sandals",
+    "url": "/blueprints/armor/bl/greekshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "deluxe-flip-flops",
+    "name": "Deluxe Flip-Flops",
+    "url": "/blueprints/armor/bl/selfcareshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "platinum-shoes",
+    "name": "Platinum Shoes",
+    "url": "/blueprints/armor/bl/platinumshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "wildhunt-sandals",
+    "name": "Wildhunt Sandals",
+    "url": "/blueprints/armor/bl/t13shoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "fairy-sandals",
+    "name": "Fairy Sandals",
+    "url": "/blueprints/armor/bl/junimayshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "hunter-moccasins",
+    "name": "Hunter Moccasins",
+    "url": "/blueprints/armor/bl/thanksgivingshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "desperado-spurs",
+    "name": "Desperado Spurs",
+    "url": "/blueprints/armor/bl/westernshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "dawn-thief's path",
+    "name": "Dawn Thief's Path",
+    "url": "/blueprints/armor/bl/t12shoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "opulent-footwraps",
+    "name": "Opulent Footwraps",
+    "url": "/blueprints/armor/bl/goldshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "raptor-talons",
+    "name": "Raptor Talons",
+    "url": "/blueprints/armor/bl/birdshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "everdusk-boots",
+    "name": "Everdusk Boots",
+    "url": "/blueprints/armor/bl/jackalopeshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "cloudwalker-steps",
+    "name": "Cloudwalker Steps",
+    "url": "/blueprints/armor/bl/lunarboots",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "corsair-boots",
+    "name": "Corsair Boots",
+    "url": "/blueprints/armor/bl/captainshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "shoes-of style",
+    "name": "Shoes of Style",
+    "url": "/blueprints/armor/bl/cincoshoes2020",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "plaguewalkers",
+    "name": "Plaguewalkers",
+    "url": "/blueprints/armor/bl/castleshoe",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "drakeskin-boots",
+    "name": "Drakeskin Boots",
+    "url": "/blueprints/armor/bl/dragonshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "birdrunners",
+    "name": "Birdrunners",
+    "url": "/blueprints/armor/bl/harpyshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "alpine-stride",
+    "name": "Alpine Stride",
+    "url": "/blueprints/armor/bl/ruinsshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "windrunner-boots",
+    "name": "Windrunner Boots",
+    "url": "/blueprints/armor/bl/windrunnerboots",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "nightwing-shoes",
+    "name": "Nightwing Shoes",
+    "url": "/blueprints/armor/bl/batshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "ninja-tabi",
+    "name": "Ninja Tabi",
+    "url": "/blueprints/armor/bl/ninjatabi",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "compact-snowshoes",
+    "name": "Compact Snowshoes",
+    "url": "/blueprints/armor/bl/inuitshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "sultan-steps",
+    "name": "Sultan Steps",
+    "url": "/blueprints/armor/bl/arabianshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "sakura-tabi",
+    "name": "Sakura Tabi",
+    "url": "/blueprints/armor/bl/blossomshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "savage-stride",
+    "name": "Savage Stride",
+    "url": "/blueprints/armor/bl/savageshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "moonlight-zōri",
+    "name": "Moonlight Zōri",
+    "url": "/blueprints/armor/bl/moonshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "elven-shoes",
+    "name": "Elven Shoes",
+    "url": "/blueprints/armor/bl/elvenshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "perennial-sandals",
+    "name": "Perennial Sandals",
+    "url": "/blueprints/armor/bl/flowersandals",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "thief's-shoes",
+    "name": "Thief's Shoes",
+    "url": "/blueprints/armor/bl/thiefshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "legionnaire-sandals",
+    "name": "Legionnaire Sandals",
+    "url": "/blueprints/armor/bl/romansandals",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "soft-shoes",
+    "name": "Soft Shoes",
+    "url": "/blueprints/armor/bl/softshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "flip-flops",
+    "name": "Flip-Flops",
+    "url": "/blueprints/armor/bl/sandals",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "trailblazers",
+    "name": "Trailblazers",
+    "url": "/blueprints/armor/bl/forestshoes",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "leather-boots",
+    "name": "Leather Boots",
+    "url": "/blueprints/armor/bl/leatherboots",
+    "categoryId": "armor",
+    "subCategoryId": "light-footwear"
+  },
+  {
+    "id": "fragrant-moisturizer",
+    "name": "Fragrant Moisturizer",
+    "url": "/blueprints/accessories/up/selfcarepotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "billionaire-brew",
+    "name": "Billionaire Brew",
+    "url": "/blueprints/accessories/up/officepotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "satchel-of essentials",
+    "name": "Satchel of Essentials",
+    "url": "/blueprints/accessories/up/arcadepotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "conqueror's-blood",
+    "name": "Conqueror's Blood",
+    "url": "/blueprints/accessories/up/t13potion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "maple-holy grail",
+    "name": "Maple Holy Grail",
+    "url": "/blueprints/accessories/up/maplepotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "supreme-sunscreen",
+    "name": "Supreme Sunscreen",
+    "url": "/blueprints/accessories/up/beachpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "quintessence-purity",
+    "name": "Quintessence Purity",
+    "url": "/blueprints/accessories/up/volcanopotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "mundra's-remedy",
+    "name": "Mundra's Remedy",
+    "url": "/blueprints/accessories/up/mundrapotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "ambrosia",
+    "name": "Ambrosia",
+    "url": "/blueprints/accessories/up/t12potion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "nectar-pitcher",
+    "name": "Nectar Pitcher",
+    "url": "/blueprints/accessories/up/frogpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "aurora-springwater",
+    "name": "Aurora Springwater",
+    "url": "/blueprints/accessories/up/yetipotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "distilled-nebula",
+    "name": "Distilled Nebula",
+    "url": "/blueprints/accessories/up/starextract",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "opulent-elixir",
+    "name": "Opulent Elixir",
+    "url": "/blueprints/accessories/up/goldpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "midnight-oil",
+    "name": "Midnight Oil",
+    "url": "/blueprints/accessories/up/batpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "gaia-tonic",
+    "name": "Gaia Tonic",
+    "url": "/blueprints/accessories/up/gaiatonic",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "oak-essence",
+    "name": "Oak Essence",
+    "url": "/blueprints/accessories/up/carpenterpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "tangy-decoction",
+    "name": "Tangy Decoction",
+    "url": "/blueprints/accessories/up/lemonpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "soulfire-extract",
+    "name": "Soulfire Extract",
+    "url": "/blueprints/accessories/up/soulfireextract",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "elixir-of the wyrm",
+    "name": "Elixir of the Wyrm",
+    "url": "/blueprints/accessories/up/lunarpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "special-sazonado",
+    "name": "Special Sazonado",
+    "url": "/blueprints/accessories/up/cincopotion2",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "naya's-special",
+    "name": "Naya's Special",
+    "url": "/blueprints/accessories/up/nayapotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "gourd-elixir",
+    "name": "Gourd Elixir",
+    "url": "/blueprints/accessories/up/pumpkinpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "purple-bomb",
+    "name": "Purple Bomb",
+    "url": "/blueprints/accessories/up/purplebomb",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "canopic-jar",
+    "name": "Canopic Jar",
+    "url": "/blueprints/accessories/up/egyptpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "fizzy-guzzle bottle",
+    "name": "Fizzy Guzzle Bottle",
+    "url": "/blueprints/accessories/up/epicpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "bottled-mirth",
+    "name": "Bottled Mirth",
+    "url": "/blueprints/accessories/up/pyramidpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "potion-of renewal",
+    "name": "Potion of Renewal",
+    "url": "/blueprints/accessories/up/vialofrenewal",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "zesty-granita",
+    "name": "Zesty Granita",
+    "url": "/blueprints/accessories/up/cincopotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "phoenix-tonic",
+    "name": "Phoenix Tonic",
+    "url": "/blueprints/accessories/up/largehealthpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "old-salt's brew",
+    "name": "Old Salt's Brew",
+    "url": "/blueprints/accessories/up/poloniapotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "titan-potion",
+    "name": "Titan Potion",
+    "url": "/blueprints/accessories/up/shoprpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "xl-magic potion",
+    "name": "XL Magic Potion",
+    "url": "/blueprints/accessories/up/magicpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "elegant-tea set",
+    "name": "Elegant Tea Set",
+    "url": "/blueprints/accessories/up/victorianpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "xl-healing potion",
+    "name": "XL Healing Potion",
+    "url": "/blueprints/accessories/up/healthpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "science-project",
+    "name": "Science Project",
+    "url": "/blueprints/accessories/up/scienceexperiment",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "magic-potion",
+    "name": "Magic Potion",
+    "url": "/blueprints/accessories/up/smallmanapotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "healing-potion",
+    "name": "Healing Potion",
+    "url": "/blueprints/accessories/up/smallhealthpotion",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "warm-tea",
+    "name": "Warm Tea",
+    "url": "/blueprints/accessories/up/tea",
+    "categoryId": "accessories",
+    "subCategoryId": "potion"
+  },
+  {
+    "id": "darkness-millennium",
+    "name": "Darkness Millennium",
+    "url": "/blueprints/accessories/us/1000bp",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "tales-of yule",
+    "name": "Tales of Yule",
+    "url": "/blueprints/accessories/us/yulescroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "platinum-secret map",
+    "name": "Platinum Secret Map",
+    "url": "/blueprints/accessories/us/platinumscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "sealed-hurricane",
+    "name": "Sealed Hurricane",
+    "url": "/blueprints/accessories/us/riftscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "pandora's-box",
+    "name": "Pandora's Box",
+    "url": "/blueprints/accessories/us/t13scroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "opulent-incantation",
+    "name": "Opulent Incantation",
+    "url": "/blueprints/accessories/us/goldscroll2",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "love-declaration",
+    "name": "Love Declaration",
+    "url": "/blueprints/accessories/us/valentinescroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "lost-star chart",
+    "name": "Lost Star Chart",
+    "url": "/blueprints/accessories/us/newyearscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "pharaoh's-pact",
+    "name": "Pharaoh's Pact",
+    "url": "/blueprints/accessories/us/anubisscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "the-bound beast",
+    "name": "The Bound Beast",
+    "url": "/blueprints/accessories/us/t12scroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "tome-of all-knowledge",
+    "name": "Tome of All-Knowledge",
+    "url": "/blueprints/accessories/us/allknowledge",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "tiger-emperor's edict",
+    "name": "Tiger Emperor's Edict",
+    "url": "/blueprints/accessories/us/lunarscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "sealed-declaration",
+    "name": "Sealed Declaration",
+    "url": "/blueprints/accessories/us/freedomscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "phoenix-litany",
+    "name": "Phoenix Litany",
+    "url": "/blueprints/accessories/us/peakscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "celestial-choir",
+    "name": "Celestial Choir",
+    "url": "/blueprints/accessories/us/angelscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "druidic-grimoire",
+    "name": "Druidic Grimoire",
+    "url": "/blueprints/accessories/us/celticscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "curse-of the night",
+    "name": "Curse of the Night",
+    "url": "/blueprints/accessories/us/batscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "prayer-book",
+    "name": "Prayer Book",
+    "url": "/blueprints/accessories/us/priestbook",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "ancestral-atlas",
+    "name": "Ancestral Atlas",
+    "url": "/blueprints/accessories/us/celestialscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "luxurious-tablet",
+    "name": "Luxurious Tablet",
+    "url": "/blueprints/accessories/us/goldscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "imperial-decree",
+    "name": "Imperial Decree",
+    "url": "/blueprints/accessories/us/waxtablet",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "grimoire-aeternum",
+    "name": "Grimoire Aeternum",
+    "url": "/blueprints/accessories/us/grimoireaeternum",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "rolled-up leather",
+    "name": "Rolled Up Leather",
+    "url": "/blueprints/accessories/us/tamasscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "scroll-of fortune",
+    "name": "Scroll of Fortune",
+    "url": "/blueprints/accessories/us/vipscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "tarot-deck",
+    "name": "Tarot Deck",
+    "url": "/blueprints/accessories/us/tarot",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "tale-of the unicorn",
+    "name": "Tale of the Unicorn",
+    "url": "/blueprints/accessories/us/unicornscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "firework-bundle",
+    "name": "Firework Bundle",
+    "url": "/blueprints/accessories/us/fireworksscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "bagua-board",
+    "name": "Bagua Board",
+    "url": "/blueprints/accessories/us/scrolloflevitation",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "spells-vol iii",
+    "name": "Spells Vol III",
+    "url": "/blueprints/accessories/us/spellbook3",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "naughty-or nice list",
+    "name": "Naughty or Nice List",
+    "url": "/blueprints/accessories/us/christmascroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "tome-of secrets",
+    "name": "Tome of Secrets",
+    "url": "/blueprints/accessories/us/scrollofinvisibility",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "tome-of knowledge",
+    "name": "Tome of Knowledge",
+    "url": "/blueprints/accessories/us/tomeofknowledge",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "tome-of the night",
+    "name": "Tome of the Night",
+    "url": "/blueprints/accessories/us/swampscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "monster-manual",
+    "name": "Monster Manual",
+    "url": "/blueprints/accessories/us/scrollofice",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "correspondence",
+    "name": "Correspondence",
+    "url": "/blueprints/accessories/us/correspondence",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "song-of valor",
+    "name": "Song of Valor",
+    "url": "/blueprints/accessories/us/songofvalor",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "scroll-of storms",
+    "name": "Scroll of Storms",
+    "url": "/blueprints/accessories/us/scrollofprotection",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "scroll-of armor",
+    "name": "Scroll of Armor",
+    "url": "/blueprints/accessories/us/scrollofthunder",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "scroll-of cleansing",
+    "name": "Scroll of Cleansing",
+    "url": "/blueprints/accessories/us/forestscroll",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "scroll-of sparks",
+    "name": "Scroll of Sparks",
+    "url": "/blueprints/accessories/us/scrolloffire",
+    "categoryId": "accessories",
+    "subCategoryId": "spell"
+  },
+  {
+    "id": "dragon-sacred gem",
+    "name": "Dragon Sacred Gem",
+    "url": "/blueprints/accessories/xs/lunarshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "cm-73-shield",
+    "name": "CM-73 Shield",
+    "url": "/blueprints/accessories/xs/mechashield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "mundra's-aegis",
+    "name": "Mundra's Aegis",
+    "url": "/blueprints/accessories/xs/mundrashield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "radical-waverider",
+    "name": "Radical Waverider",
+    "url": "/blueprints/accessories/xs/beachshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "chloroshield",
+    "name": "Chloroshield",
+    "url": "/blueprints/accessories/xs/t13shield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "elongo-shield",
+    "name": "Elongo Shield",
+    "url": "/blueprints/accessories/xs/africanshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "bastion-of dawn",
+    "name": "Bastion of Dawn",
+    "url": "/blueprints/accessories/xs/newyearshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "opulent-buckler",
+    "name": "Opulent Buckler",
+    "url": "/blueprints/accessories/xs/goldshield2",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "titan-shield",
+    "name": "Titan Shield",
+    "url": "/blueprints/accessories/xs/shoprshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "abyssal-artifact",
+    "name": "Abyssal Artifact",
+    "url": "/blueprints/accessories/xs/t12shield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "crystalice-targe",
+    "name": "Crystalice Targe",
+    "url": "/blueprints/accessories/xs/snowshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "honeycomb-defender",
+    "name": "Honeycomb Defender",
+    "url": "/blueprints/accessories/xs/beeshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "bearded-paragon",
+    "name": "Bearded Paragon",
+    "url": "/blueprints/accessories/xs/paragon",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "emperor-wyrmguard",
+    "name": "Emperor Wyrmguard",
+    "url": "/blueprints/accessories/xs/dragonshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "goldmane-guard",
+    "name": "Goldmane Guard",
+    "url": "/blueprints/accessories/xs/prideshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "luxurious-aegis",
+    "name": "Luxurious Aegis",
+    "url": "/blueprints/accessories/xs/goldshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "bunbun-buckler",
+    "name": "Bunbun Buckler",
+    "url": "/blueprints/accessories/xs/eastershield2020",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "milesian-shield",
+    "name": "Milesian Shield",
+    "url": "/blueprints/accessories/xs/stpatrickshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "prometheon",
+    "name": "Prometheon",
+    "url": "/blueprints/accessories/xs/castleshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "angelic-pavise",
+    "name": "Angelic Pavise",
+    "url": "/blueprints/accessories/xs/zealouspavise",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "goreboar-targe",
+    "name": "Goreboar Targe",
+    "url": "/blueprints/accessories/xs/boarshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "ancestor-totem",
+    "name": "Ancestor Totem",
+    "url": "/blueprints/accessories/xs/ancestortotem",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "vanguard-buckler",
+    "name": "Vanguard Buckler",
+    "url": "/blueprints/accessories/xs/fallshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "wyrmguard",
+    "name": "Wyrmguard",
+    "url": "/blueprints/accessories/xs/towershield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "gaia-aegis",
+    "name": "Gaia Aegis",
+    "url": "/blueprints/accessories/xs/natureshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "raider-buckler",
+    "name": "Raider Buckler",
+    "url": "/blueprints/accessories/xs/aegirshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "mythril-aspis",
+    "name": "Mythril Aspis",
+    "url": "/blueprints/accessories/xs/largebuckler",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "champion-vigil",
+    "name": "Champion Vigil",
+    "url": "/blueprints/accessories/xs/argonshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "imperial-scutum",
+    "name": "Imperial Scutum",
+    "url": "/blueprints/accessories/xs/imperialscutum",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "teardrop-shield",
+    "name": "Teardrop Shield",
+    "url": "/blueprints/accessories/xs/kiteshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "aurum-ward",
+    "name": "Aurum Ward",
+    "url": "/blueprints/accessories/xs/grottoshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "iron-shield",
+    "name": "Iron Shield",
+    "url": "/blueprints/accessories/xs/ironshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "oaken-shield",
+    "name": "Oaken Shield",
+    "url": "/blueprints/accessories/xs/oakshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "heavy-buckler",
+    "name": "Heavy Buckler",
+    "url": "/blueprints/accessories/xs/buckler",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "wooden-shield",
+    "name": "Wooden Shield",
+    "url": "/blueprints/accessories/xs/woodshield",
+    "categoryId": "accessories",
+    "subCategoryId": "shield"
+  },
+  {
+    "id": "banner-of nilea",
+    "name": "Banner of Nilea",
+    "url": "/blueprints/accessories/xc/egyptcloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "dragon-emperor's cloak",
+    "name": "Dragon Emperor's Cloak",
+    "url": "/blueprints/accessories/xc/fallcloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "coastal-towel",
+    "name": "Coastal Towel",
+    "url": "/blueprints/accessories/xc/beachcloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "cloak-everflowing",
+    "name": "Cloak Everflowing",
+    "url": "/blueprints/accessories/xc/t13cloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "fairy-wings",
+    "name": "Fairy Wings",
+    "url": "/blueprints/accessories/xc/junimaycloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "sakura-cloak",
+    "name": "Sakura Cloak",
+    "url": "/blueprints/accessories/xc/blossomcloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "herald's-mantle",
+    "name": "Herald's Mantle",
+    "url": "/blueprints/accessories/xc/t12cloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "woven-lilycloak",
+    "name": "Woven Lilycloak",
+    "url": "/blueprints/accessories/xc/frogcloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "opulent-cloak",
+    "name": "Opulent Cloak",
+    "url": "/blueprints/accessories/xc/goldcloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "voidcloth-from beyond",
+    "name": "Voidcloth From Beyond",
+    "url": "/blueprints/accessories/xc/starcloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "archbishop-mantle",
+    "name": "Archbishop Mantle",
+    "url": "/blueprints/accessories/xc/bishopcloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "tyrant-cloak",
+    "name": "Tyrant Cloak",
+    "url": "/blueprints/accessories/xc/darkknightcloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "dragonlord-crest",
+    "name": "Dragonlord Crest",
+    "url": "/blueprints/accessories/xc/scalecloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "beast-king's cloak",
+    "name": "Beast King's Cloak",
+    "url": "/blueprints/accessories/xc/furcloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "elven-cloak",
+    "name": "Elven Cloak",
+    "url": "/blueprints/accessories/xc/elvencloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "vampire-wings",
+    "name": "Vampire Wings",
+    "url": "/blueprints/accessories/xc/batcloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "imperial-cape",
+    "name": "Imperial Cape",
+    "url": "/blueprints/accessories/xc/empirecloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "druid-cloak",
+    "name": "Druid Cloak",
+    "url": "/blueprints/accessories/xc/druidcloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "administrator-cloak",
+    "name": "Administrator Cloak",
+    "url": "/blueprints/accessories/xc/wanderercloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "adventurer-cape",
+    "name": "Adventurer Cape",
+    "url": "/blueprints/accessories/xc/squirecloak",
+    "categoryId": "accessories",
+    "subCategoryId": "cloak"
+  },
+  {
+    "id": "sacred-scarab",
+    "name": "Sacred Scarab",
+    "url": "/blueprints/accessories/xr/egyptring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "platinum-rings",
+    "name": "Platinum Rings",
+    "url": "/blueprints/accessories/xr/platinumring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "jade-lotus loop",
+    "name": "Jade Lotus Loop",
+    "url": "/blueprints/accessories/xr/fallring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "mark-of ouroboros",
+    "name": "Mark of Ouroboros",
+    "url": "/blueprints/accessories/xr/t13ring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "opulent-signet",
+    "name": "Opulent Signet",
+    "url": "/blueprints/accessories/xr/goldring2",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "maple-ration mini",
+    "name": "Maple Ration Mini",
+    "url": "/blueprints/accessories/xr/maplering",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "ogun's-onyx ring",
+    "name": "Ogun's Onyx Ring",
+    "url": "/blueprints/accessories/xr/africanring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "crystalice-loop",
+    "name": "Crystalice Loop",
+    "url": "/blueprints/accessories/xr/unicornring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "pearlescent-perfection",
+    "name": "Pearlescent Perfection",
+    "url": "/blueprints/accessories/xr/t12ring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "ring-of new beginnings",
+    "name": "Ring of New Beginnings",
+    "url": "/blueprints/accessories/xr/newyearring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "crunchy-bracelet",
+    "name": "Crunchy Bracelet",
+    "url": "/blueprints/accessories/xr/candyring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "rubicon-prison",
+    "name": "Rubicon Prison",
+    "url": "/blueprints/accessories/xr/mysteriousring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "bunbun-band",
+    "name": "Bunbun Band",
+    "url": "/blueprints/accessories/xr/bunnyring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "blizzard-ring",
+    "name": "Blizzard Ring",
+    "url": "/blueprints/accessories/xr/winterring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "northwind-gem",
+    "name": "Northwind Gem",
+    "url": "/blueprints/accessories/xr/templering",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "borealis",
+    "name": "Borealis",
+    "url": "/blueprints/accessories/xr/borealis",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "luxurious-signet",
+    "name": "Luxurious Signet",
+    "url": "/blueprints/accessories/xr/goldring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "valedictorian-ring",
+    "name": "Valedictorian Ring",
+    "url": "/blueprints/accessories/xr/schoolring2020",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "dawnflower-ring",
+    "name": "Dawnflower Ring",
+    "url": "/blueprints/accessories/xr/springflower",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "fairfolk-band",
+    "name": "Fairfolk Band",
+    "url": "/blueprints/accessories/xr/feyring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "survival-strap",
+    "name": "Survival Strap",
+    "url": "/blueprints/accessories/xr/campingring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "ring-of vampire kin",
+    "name": "Ring of Vampire Kin",
+    "url": "/blueprints/accessories/xr/batring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "brimstone-coil",
+    "name": "Brimstone Coil",
+    "url": "/blueprints/accessories/xr/sulfuritecoil",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "ring-of the chosen",
+    "name": "Ring of the Chosen",
+    "url": "/blueprints/accessories/xr/chosenring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "soulstone-ring",
+    "name": "Soulstone Ring",
+    "url": "/blueprints/accessories/xr/pyramidring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "batrachite-stone",
+    "name": "Batrachite Stone",
+    "url": "/blueprints/accessories/xr/batrachitestone",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "qian-loop",
+    "name": "Qian Loop",
+    "url": "/blueprints/accessories/xr/lunarring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "ring-of liberty",
+    "name": "Ring of Liberty",
+    "url": "/blueprints/accessories/xr/freedomring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "knight-signet",
+    "name": "Knight Signet",
+    "url": "/blueprints/accessories/xr/knightsignet",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "claud's-will",
+    "name": "Claud's Will",
+    "url": "/blueprints/accessories/xr/hemmadonring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "ring-of rhythm",
+    "name": "Ring of Rhythm",
+    "url": "/blueprints/accessories/xr/cincoring2020",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "noble-ring",
+    "name": "Noble Ring",
+    "url": "/blueprints/accessories/xr/noblering",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "ring-of passion",
+    "name": "Ring of Passion",
+    "url": "/blueprints/accessories/xr/valentinering",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "silver-band",
+    "name": "Silver Band",
+    "url": "/blueprints/accessories/xr/silverband",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "emerald-ring",
+    "name": "Emerald Ring",
+    "url": "/blueprints/accessories/xr/grottoring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "ruby-ring",
+    "name": "Ruby Ring",
+    "url": "/blueprints/accessories/xr/fatring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "alloy-loop",
+    "name": "Alloy Loop",
+    "url": "/blueprints/accessories/xr/doublering",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "iron-ring",
+    "name": "Iron Ring",
+    "url": "/blueprints/accessories/xr/ironring",
+    "categoryId": "accessories",
+    "subCategoryId": "ring"
+  },
+  {
+    "id": "charlatan's-amulet",
+    "name": "Charlatan's Amulet",
+    "url": "/blueprints/accessories/xa/magicamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "platinum-insignia",
+    "name": "Platinum Insignia",
+    "url": "/blueprints/accessories/xa/platinumamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "bleakspire-charm",
+    "name": "Bleakspire Charm",
+    "url": "/blueprints/accessories/xa/harpyamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "titania's-timepiece",
+    "name": "Titania's Timepiece",
+    "url": "/blueprints/accessories/xa/t13amulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "fairy-wreath",
+    "name": "Fairy Wreath",
+    "url": "/blueprints/accessories/xa/junimayamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "eternal-hourglass",
+    "name": "Eternal Hourglass",
+    "url": "/blueprints/accessories/xa/cyclopsamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "gamepad-mini",
+    "name": "Gamepad Mini",
+    "url": "/blueprints/accessories/xa/arcadeamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "opulent-carcanet",
+    "name": "Opulent Carcanet",
+    "url": "/blueprints/accessories/xa/goldamulet2",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "titania's-keepsake",
+    "name": "Titania's Keepsake",
+    "url": "/blueprints/accessories/xa/t12amulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "fellgrove-talisman",
+    "name": "Fellgrove Talisman",
+    "url": "/blueprints/accessories/xa/wiccanamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "gyatso's-amulet",
+    "name": "Gyatso's Amulet",
+    "url": "/blueprints/accessories/xa/atlab_amulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "forlorn-acorn",
+    "name": "Forlorn Acorn",
+    "url": "/blueprints/accessories/xa/troblinamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "monsoon-heart",
+    "name": "Monsoon Heart",
+    "url": "/blueprints/accessories/xa/peakamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "brísingamen",
+    "name": "Brísingamen",
+    "url": "/blueprints/accessories/xa/brisingamen",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "vip-talisman",
+    "name": "VIP Talisman",
+    "url": "/blueprints/accessories/xa/vipamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "freyja's-talisman",
+    "name": "Freyja's Talisman",
+    "url": "/blueprints/accessories/xa/priestamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "alimyriad",
+    "name": "Alimyriad",
+    "url": "/blueprints/accessories/xa/alimyriad",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "p.e.t.-portable",
+    "name": "P.E.T. Portable",
+    "url": "/blueprints/accessories/xa/spaceamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "ursa-totem",
+    "name": "Ursa Totem",
+    "url": "/blueprints/accessories/xa/rudoamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "stygian-phylactery",
+    "name": "Stygian Phylactery",
+    "url": "/blueprints/accessories/xa/phylactery",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "archivist-glasses",
+    "name": "Archivist Glasses",
+    "url": "/blueprints/accessories/xa/archivistglasses",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "dragonsoul-pendant",
+    "name": "Dragonsoul Pendant",
+    "url": "/blueprints/accessories/xa/dragonamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "magatama-necklace",
+    "name": "Magatama Necklace",
+    "url": "/blueprints/accessories/xa/magatama",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "the-dreamcatcher",
+    "name": "The Dreamcatcher",
+    "url": "/blueprints/accessories/xa/dreamamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "magical-timepiece",
+    "name": "Magical Timepiece",
+    "url": "/blueprints/accessories/xa/timelocket",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "titanium-torc",
+    "name": "Titanium Torc",
+    "url": "/blueprints/accessories/xa/titaniumtorc",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "trinket-of the fifth",
+    "name": "Trinket of the Fifth",
+    "url": "/blueprints/accessories/xa/cincoamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "convenient-pendant",
+    "name": "Convenient Pendant",
+    "url": "/blueprints/accessories/xa/oktoberamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "holy-symbol",
+    "name": "Holy Symbol",
+    "url": "/blueprints/accessories/xa/holysymbol",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "luxurious-charm",
+    "name": "Luxurious Charm",
+    "url": "/blueprints/accessories/xa/goldamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "lucky-medallion",
+    "name": "Lucky Medallion",
+    "url": "/blueprints/accessories/xa/stpatrickmedallion",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "noble-chain",
+    "name": "Noble Chain",
+    "url": "/blueprints/accessories/xa/noblechain",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "medal-of honor",
+    "name": "Medal of Honor",
+    "url": "/blueprints/accessories/xa/medal",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "eclipse-amulet",
+    "name": "Eclipse Amulet",
+    "url": "/blueprints/accessories/xa/grottoamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "sun-pendant",
+    "name": "Sun Pendant",
+    "url": "/blueprints/accessories/xa/sunpendant",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "mundra's-amulet",
+    "name": "Mundra's Amulet",
+    "url": "/blueprints/accessories/xa/mundraamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "iron-bond",
+    "name": "Iron Bond",
+    "url": "/blueprints/accessories/xa/chain",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "jade-pendant",
+    "name": "Jade Pendant",
+    "url": "/blueprints/accessories/xa/pendant",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "memento",
+    "name": "Memento",
+    "url": "/blueprints/accessories/xa/ironamulet",
+    "categoryId": "accessories",
+    "subCategoryId": "amulet"
+  },
+  {
+    "id": "voidling",
+    "name": "Voidling",
+    "url": "/blueprints/accessories/xf/voidling",
+    "categoryId": "accessories",
+    "subCategoryId": "familiar"
+  },
+  {
+    "id": "crushtacean",
+    "name": "Crushtacean",
+    "url": "/blueprints/accessories/xf/firecrab",
+    "categoryId": "accessories",
+    "subCategoryId": "familiar"
+  },
+  {
+    "id": "opulent-golem",
+    "name": "Opulent Golem",
+    "url": "/blueprints/accessories/xf/goldgolem",
+    "categoryId": "accessories",
+    "subCategoryId": "familiar"
+  },
+  {
+    "id": "harpy",
+    "name": "Harpy",
+    "url": "/blueprints/accessories/xf/harpy",
+    "categoryId": "accessories",
+    "subCategoryId": "familiar"
+  },
+  {
+    "id": "mermaid",
+    "name": "Mermaid",
+    "url": "/blueprints/accessories/xf/mermaid",
+    "categoryId": "accessories",
+    "subCategoryId": "familiar"
+  },
+  {
+    "id": "tyrant",
+    "name": "Tyrant",
+    "url": "/blueprints/accessories/xf/tyrantking",
+    "categoryId": "accessories",
+    "subCategoryId": "familiar"
+  },
+  {
+    "id": "cyclops",
+    "name": "Cyclops",
+    "url": "/blueprints/accessories/xf/cyclops",
+    "categoryId": "accessories",
+    "subCategoryId": "familiar"
+  },
+  {
+    "id": "anubis",
+    "name": "Anubis",
+    "url": "/blueprints/accessories/xf/anubis",
+    "categoryId": "accessories",
+    "subCategoryId": "familiar"
+  },
+  {
+    "id": "mushgoon",
+    "name": "Mushgoon",
+    "url": "/blueprints/accessories/xf/mushgoon",
+    "categoryId": "accessories",
+    "subCategoryId": "familiar"
+  },
+  {
+    "id": "toadwitch",
+    "name": "Toadwitch",
+    "url": "/blueprints/accessories/xf/toadwitch",
+    "categoryId": "accessories",
+    "subCategoryId": "familiar"
+  },
+  {
+    "id": "yeti",
+    "name": "Yeti",
+    "url": "/blueprints/accessories/xf/yeti",
+    "categoryId": "accessories",
+    "subCategoryId": "familiar"
+  },
+  {
+    "id": "troublin",
+    "name": "Troublin",
+    "url": "/blueprints/accessories/xf/troblin",
+    "categoryId": "accessories",
+    "subCategoryId": "familiar"
+  },
+  {
+    "id": "aura-of wonder",
+    "name": "Aura of Wonder",
+    "url": "/blueprints/accessories/xx/wonderlandaura",
+    "categoryId": "accessories",
+    "subCategoryId": "aurasong"
+  },
+  {
+    "id": "prismatic-aura",
+    "name": "Prismatic Aura",
+    "url": "/blueprints/accessories/xx/t13aura",
+    "categoryId": "accessories",
+    "subCategoryId": "aurasong"
+  },
+  {
+    "id": "aura-of power",
+    "name": "Aura of Power",
+    "url": "/blueprints/accessories/xx/t12aura",
+    "categoryId": "accessories",
+    "subCategoryId": "aurasong"
+  },
+  {
+    "id": "aura-of love",
+    "name": "Aura of Love",
+    "url": "/blueprints/accessories/xx/t11aura",
+    "categoryId": "accessories",
+    "subCategoryId": "aurasong"
+  },
+  {
+    "id": "aura-of winds",
+    "name": "Aura of Winds",
+    "url": "/blueprints/accessories/xx/t10aura",
+    "categoryId": "accessories",
+    "subCategoryId": "aurasong"
+  },
+  {
+    "id": "aura-of sparks",
+    "name": "Aura of Sparks",
+    "url": "/blueprints/accessories/xx/t9aura",
+    "categoryId": "accessories",
+    "subCategoryId": "aurasong"
+  },
+  {
+    "id": "aura-of malice",
+    "name": "Aura of Malice",
+    "url": "/blueprints/accessories/xx/t8aura",
+    "categoryId": "accessories",
+    "subCategoryId": "aurasong"
+  },
+  {
+    "id": "aura-of flames",
+    "name": "Aura of Flames",
+    "url": "/blueprints/accessories/xx/t7aura",
+    "categoryId": "accessories",
+    "subCategoryId": "aurasong"
+  },
+  {
+    "id": "aura-of growth",
+    "name": "Aura of Growth",
+    "url": "/blueprints/accessories/xx/t6aura",
+    "categoryId": "accessories",
+    "subCategoryId": "aurasong"
+  },
+  {
+    "id": "aura-of quakes",
+    "name": "Aura of Quakes",
+    "url": "/blueprints/accessories/xx/t5aura",
+    "categoryId": "accessories",
+    "subCategoryId": "aurasong"
+  },
+  {
+    "id": "aura-of rains",
+    "name": "Aura of Rains",
+    "url": "/blueprints/accessories/xx/t4aura",
+    "categoryId": "accessories",
+    "subCategoryId": "aurasong"
+  },
+  {
+    "id": "gleaming-aura",
+    "name": "Gleaming Aura",
+    "url": "/blueprints/accessories/xx/t3aura",
+    "categoryId": "accessories",
+    "subCategoryId": "aurasong"
+  },
+  {
+    "id": "teatime-snack",
+    "name": "Teatime Snack",
+    "url": "/blueprints/accessories/fm/wonderlandmeal",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "crispy-roast duck",
+    "name": "Crispy Roast Duck",
+    "url": "/blueprints/accessories/fm/fallmeal",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "very-hot pot",
+    "name": "Very Hot Pot",
+    "url": "/blueprints/accessories/fm/firecrabmeal",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "pot-of paella",
+    "name": "Pot of Paella",
+    "url": "/blueprints/accessories/fm/t13meal",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "opulent-tamales",
+    "name": "Opulent Tamales",
+    "url": "/blueprints/accessories/fm/goldmeal",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "huli-huli-chicken",
+    "name": "Huli-Huli Chicken",
+    "url": "/blueprints/accessories/fm/t12meal",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "steamed-sea bass",
+    "name": "Steamed Sea Bass",
+    "url": "/blueprints/accessories/fm/lunarmeal",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "deluxe-ramen",
+    "name": "Deluxe Ramen",
+    "url": "/blueprints/accessories/fm/ramen",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "veggie-kebabs",
+    "name": "Veggie Kebabs",
+    "url": "/blueprints/accessories/fm/kebabs",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "packed-takeout",
+    "name": "Packed Takeout",
+    "url": "/blueprints/accessories/fm/cybermeal",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "super-spicy curry",
+    "name": "Super Spicy Curry",
+    "url": "/blueprints/accessories/fm/coconutcurry",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "holiday-ham",
+    "name": "Holiday Ham",
+    "url": "/blueprints/accessories/fm/yulemeal",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "sushi",
+    "name": "Sushi",
+    "url": "/blueprints/accessories/fm/sushi",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "creamy-scallops",
+    "name": "Creamy Scallops",
+    "url": "/blueprints/accessories/fm/newyearmeal",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "ahi-poke bowl",
+    "name": "Ahi Poke Bowl",
+    "url": "/blueprints/accessories/fm/ahipoke",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "power-up-pie",
+    "name": "Power-Up Pie",
+    "url": "/blueprints/accessories/fm/arcademeal",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "margherita-pizza",
+    "name": "Margherita Pizza",
+    "url": "/blueprints/accessories/fm/pizza",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "cheeseburger",
+    "name": "Cheeseburger",
+    "url": "/blueprints/accessories/fm/burger",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "shepherd's-pie",
+    "name": "Shepherd's Pie",
+    "url": "/blueprints/accessories/fm/patechinois",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "sugar-shack special",
+    "name": "Sugar Shack Special",
+    "url": "/blueprints/accessories/fm/maplemeal",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "poutine",
+    "name": "Poutine",
+    "url": "/blueprints/accessories/fm/poutine",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "cosmos-cereals",
+    "name": "CosmOs Cereals",
+    "url": "/blueprints/accessories/fm/spacemeal",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "gua-bao",
+    "name": "Gua Bao",
+    "url": "/blueprints/accessories/fm/baobun",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "bacon-and eggs",
+    "name": "Bacon and Eggs",
+    "url": "/blueprints/accessories/fm/baconeggs",
+    "categoryId": "accessories",
+    "subCategoryId": "meal"
+  },
+  {
+    "id": "eversweet-cornucopia",
+    "name": "Eversweet Cornucopia",
+    "url": "/blueprints/accessories/fd/cornucopiadessert",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "summer-s'mores",
+    "name": "Summer S'mores",
+    "url": "/blueprints/accessories/fd/campingdessert",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "ultimate-fruit salad",
+    "name": "Ultimate Fruit Salad",
+    "url": "/blueprints/accessories/fd/t13dessert",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "glazed-mirror cake",
+    "name": "Glazed Mirror Cake",
+    "url": "/blueprints/accessories/fd/newyeardessert",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "opulent-churros",
+    "name": "Opulent Churros",
+    "url": "/blueprints/accessories/fd/golddessert",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "coconut-cream cake",
+    "name": "Coconut Cream Cake",
+    "url": "/blueprints/accessories/fd/coconutcake",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "halo-halo",
+    "name": "Halo-Halo",
+    "url": "/blueprints/accessories/fd/t12dessert",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "tuxedo-cake",
+    "name": "Tuxedo Cake",
+    "url": "/blueprints/accessories/fd/tuxedocake",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "pineapple-cake",
+    "name": "Pineapple Cake",
+    "url": "/blueprints/accessories/fd/pineapplecake",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "matcha-swiss roll",
+    "name": "Matcha Swiss Roll",
+    "url": "/blueprints/accessories/fd/spiralcake",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "strawberry-mochi",
+    "name": "Strawberry Mochi",
+    "url": "/blueprints/accessories/fd/daifuku",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "macaron-set",
+    "name": "Macaron Set",
+    "url": "/blueprints/accessories/fd/macaron",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "chocolate-box",
+    "name": "Chocolate Box",
+    "url": "/blueprints/accessories/fd/valentinedessert",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "cheesecake",
+    "name": "Cheesecake",
+    "url": "/blueprints/accessories/fd/cheesecake",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "taiyaki",
+    "name": "Taiyaki",
+    "url": "/blueprints/accessories/fd/taiyaki",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "shaved-ice",
+    "name": "Shaved Ice",
+    "url": "/blueprints/accessories/fd/shavedice",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "cookie-plate",
+    "name": "Cookie Plate",
+    "url": "/blueprints/accessories/fd/cookies",
+    "categoryId": "accessories",
+    "subCategoryId": "dessert"
+  },
+  {
+    "id": "perfect-moonstone",
+    "name": "Perfect Moonstone",
+    "url": "/blueprints/stones/xm/perfectmoon",
+    "categoryId": "stones",
+    "subCategoryId": "moonstone"
+  },
+  {
+    "id": "greater-moonstone",
+    "name": "Greater Moonstone",
+    "url": "/blueprints/stones/xm/greatermoon",
+    "categoryId": "stones",
+    "subCategoryId": "moonstone"
+  },
+  {
+    "id": "superior-moonstone",
+    "name": "Superior Moonstone",
+    "url": "/blueprints/stones/xm/flawedmoon",
+    "categoryId": "stones",
+    "subCategoryId": "moonstone"
+  },
+  {
+    "id": "lesser-moonstone",
+    "name": "Lesser Moonstone",
+    "url": "/blueprints/stones/xm/lessermoon",
+    "categoryId": "stones",
+    "subCategoryId": "moonstone"
+  },
+  {
+    "id": "torrent-element",
+    "name": "Torrent Element",
+    "url": "/blueprints/enchantments/z/torrent",
+    "categoryId": "enchantments",
+    "subCategoryId": "water"
+  },
+  {
+    "id": "flood-element",
+    "name": "Flood Element",
+    "url": "/blueprints/enchantments/z/flood",
+    "categoryId": "enchantments",
+    "subCategoryId": "water"
+  },
+  {
+    "id": "tide-element",
+    "name": "Tide Element",
+    "url": "/blueprints/enchantments/z/tidal",
+    "categoryId": "enchantments",
+    "subCategoryId": "water"
+  },
+  {
+    "id": "bubble-element",
+    "name": "Bubble Element",
+    "url": "/blueprints/enchantments/z/bubble",
+    "categoryId": "enchantments",
+    "subCategoryId": "water"
+  },
+  {
+    "id": "primeval-element",
+    "name": "Primeval Element",
+    "url": "/blueprints/enchantments/z/primeval",
+    "categoryId": "enchantments",
+    "subCategoryId": "earth"
+  },
+  {
+    "id": "primal-element",
+    "name": "Primal Element",
+    "url": "/blueprints/enchantments/z/primal",
+    "categoryId": "enchantments",
+    "subCategoryId": "earth"
+  },
+  {
+    "id": "wild-element",
+    "name": "Wild Element",
+    "url": "/blueprints/enchantments/z/wild",
+    "categoryId": "enchantments",
+    "subCategoryId": "earth"
+  },
+  {
+    "id": "nature-element",
+    "name": "Nature Element",
+    "url": "/blueprints/enchantments/z/natural",
+    "categoryId": "enchantments",
+    "subCategoryId": "earth"
+  },
+  {
+    "id": "hurricane-element",
+    "name": "Hurricane Element",
+    "url": "/blueprints/enchantments/z/hurricane",
+    "categoryId": "enchantments",
+    "subCategoryId": "air"
+  },
+  {
+    "id": "tempest-element",
+    "name": "Tempest Element",
+    "url": "/blueprints/enchantments/z/tempest",
+    "categoryId": "enchantments",
+    "subCategoryId": "air"
+  },
+  {
+    "id": "gale-element",
+    "name": "Gale Element",
+    "url": "/blueprints/enchantments/z/gale",
+    "categoryId": "enchantments",
+    "subCategoryId": "air"
+  },
+  {
+    "id": "breeze-element",
+    "name": "Breeze Element",
+    "url": "/blueprints/enchantments/z/breeze",
+    "categoryId": "enchantments",
+    "subCategoryId": "air"
+  },
+  {
+    "id": "divine-element",
+    "name": "Divine Element",
+    "url": "/blueprints/enchantments/z/divine",
+    "categoryId": "enchantments",
+    "subCategoryId": "light"
+  },
+  {
+    "id": "sacred-element",
+    "name": "Sacred Element",
+    "url": "/blueprints/enchantments/z/sacred",
+    "categoryId": "enchantments",
+    "subCategoryId": "light"
+  },
+  {
+    "id": "holy-element",
+    "name": "Holy Element",
+    "url": "/blueprints/enchantments/z/holy",
+    "categoryId": "enchantments",
+    "subCategoryId": "light"
+  },
+  {
+    "id": "light-element",
+    "name": "Light Element",
+    "url": "/blueprints/enchantments/z/light",
+    "categoryId": "enchantments",
+    "subCategoryId": "light"
+  },
+  {
+    "id": "abyssal-element",
+    "name": "Abyssal Element",
+    "url": "/blueprints/enchantments/z/abyssal",
+    "categoryId": "enchantments",
+    "subCategoryId": "dark"
+  },
+  {
+    "id": "nightmare-element",
+    "name": "Nightmare Element",
+    "url": "/blueprints/enchantments/z/nightmare",
+    "categoryId": "enchantments",
+    "subCategoryId": "dark"
+  },
+  {
+    "id": "unholy-element",
+    "name": "Unholy Element",
+    "url": "/blueprints/enchantments/z/unholy",
+    "categoryId": "enchantments",
+    "subCategoryId": "dark"
+  },
+  {
+    "id": "corrupted-element",
+    "name": "Corrupted Element",
+    "url": "/blueprints/enchantments/z/corrupted",
+    "categoryId": "enchantments",
+    "subCategoryId": "dark"
+  },
+  {
+    "id": "opulent-element",
+    "name": "Opulent Element",
+    "url": "/blueprints/enchantments/z/opulentelement",
+    "categoryId": "enchantments",
+    "subCategoryId": "gold"
+  },
+  {
+    "id": "luxurious-element",
+    "name": "Luxurious Element",
+    "url": "/blueprints/enchantments/z/luxuriouselement",
+    "categoryId": "enchantments",
+    "subCategoryId": "gold"
+  },
+  {
+    "id": "christmas-spirit",
+    "name": "Christmas Spirit",
+    "url": "/blueprints/enchantments/z/santa",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "kraken-spirit",
+    "name": "Kraken Spirit",
+    "url": "/blueprints/enchantments/z/kraken",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "chimera-spirit",
+    "name": "Chimera Spirit",
+    "url": "/blueprints/enchantments/z/chimera",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "carbuncle-spirit",
+    "name": "Carbuncle Spirit",
+    "url": "/blueprints/enchantments/z/carbuncle",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "tarrasque-spirit",
+    "name": "Tarrasque Spirit",
+    "url": "/blueprints/enchantments/z/tarrasque",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "hydra-spirit",
+    "name": "Hydra Spirit",
+    "url": "/blueprints/enchantments/z/hydra",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "phoenix-spirit",
+    "name": "Phoenix Spirit",
+    "url": "/blueprints/enchantments/z/phoenix",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "quetzalcoatl-spirit",
+    "name": "Quetzalcoatl Spirit",
+    "url": "/blueprints/enchantments/z/opulentspirit",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "tiger-spirit",
+    "name": "Tiger Spirit",
+    "url": "/blueprints/enchantments/z/tiger",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "dinosaur-spirit",
+    "name": "Dinosaur Spirit",
+    "url": "/blueprints/enchantments/z/dinosaur",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "mammoth-spirit",
+    "name": "Mammoth Spirit",
+    "url": "/blueprints/enchantments/z/mammoth",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "bear-spirit",
+    "name": "Bear Spirit",
+    "url": "/blueprints/enchantments/z/bear",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "lion-spirit",
+    "name": "Lion Spirit",
+    "url": "/blueprints/enchantments/z/lion",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "walrus-spirit",
+    "name": "Walrus Spirit",
+    "url": "/blueprints/enchantments/z/walrus",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "shark-spirit",
+    "name": "Shark Spirit",
+    "url": "/blueprints/enchantments/z/shark",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "hippo-spirit",
+    "name": "Hippo Spirit",
+    "url": "/blueprints/enchantments/z/hippo",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "horse-spirit",
+    "name": "Horse Spirit",
+    "url": "/blueprints/enchantments/z/crab",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "lizard-spirit",
+    "name": "Lizard Spirit",
+    "url": "/blueprints/enchantments/z/lizard",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "armadillo-spirit",
+    "name": "Armadillo Spirit",
+    "url": "/blueprints/enchantments/z/armadillo",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "owl-spirit",
+    "name": "Owl Spirit",
+    "url": "/blueprints/enchantments/z/owl",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "rhino-spirit",
+    "name": "Rhino Spirit",
+    "url": "/blueprints/enchantments/z/rhino",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "xolotl-spirit",
+    "name": "Xolotl Spirit",
+    "url": "/blueprints/enchantments/z/luxuriousspirit",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "bunny-spirit",
+    "name": "Bunny Spirit",
+    "url": "/blueprints/enchantments/z/rabbitspirit",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "cat-spirit",
+    "name": "Cat Spirit",
+    "url": "/blueprints/enchantments/z/cat",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "viper-spirit",
+    "name": "Viper Spirit",
+    "url": "/blueprints/enchantments/z/viper",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "eagle-spirit",
+    "name": "Eagle Spirit",
+    "url": "/blueprints/enchantments/z/eagle",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "ox-spirit",
+    "name": "Ox Spirit",
+    "url": "/blueprints/enchantments/z/ox",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "wolf-spirit",
+    "name": "Wolf Spirit",
+    "url": "/blueprints/enchantments/z/wolf",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  },
+  {
+    "id": "ram-spirit",
+    "name": "Ram Spirit",
+    "url": "/blueprints/enchantments/z/turtle",
+    "categoryId": "enchantments",
+    "subCategoryId": "spirit"
+  }
+]

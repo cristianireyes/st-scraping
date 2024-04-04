@@ -1,0 +1,27 @@
+[
+  {
+    "id": "weapons",
+    "name": "Weapons",
+    "url": "/blueprints/weapons/ws"
+  },
+  {
+    "id": "armor",
+    "name": "Armor",
+    "url": "/blueprints/armor/ah"
+  },
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "url": "/blueprints/accessories/uh"
+  },
+  {
+    "id": "stones",
+    "name": "Stones",
+    "url": "/blueprints/stones/xu"
+  },
+  {
+    "id": "enchantments",
+    "name": "Enchantments",
+    "url": "/blueprints/enchantments/fire"
+  }
+]
